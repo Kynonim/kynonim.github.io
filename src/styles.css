@@ -54,24 +54,12 @@ nav a {
   font-weight: 500;
   transition: 0.3s ease;
   border-bottom: 3px solid transparent;
+  transition: all 0.3s ease;
 }
 
 nav a:hover, nav a.active {
   color: var(--primary-color);
   border-bottom: 3px solid var(--secondary-color);
-}
-
-nav i {
-  font-size: 1.8rem;
-  color: var(--text-dark);
-  margin-left: 4rem;
-  font-weight: 600;
-  transition: 0.4s ease;
-}
-
-nav i:hover {
-  transform: scale(1.5);
-  color: var(--primary-color);
 }
 
 section {
@@ -210,6 +198,13 @@ section {
   position: relative;
 }
 
+.menu {
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 15px;
+  display: none;
+}
+
 @keyframes ketik {
   from, to {
       border-color: transparent;
@@ -226,19 +221,19 @@ section {
   100% { opacity: 0;}
 }
 
-@media (max-width: 995px) {
+@media (max-width: 1024px) {
   nav {
     display: none;
+    flex-direction: column;
     position: absolute;
-    top: 0;
-    right: 0;
-    width: 40%;
-    border-left: 3px solid red;
-    border-bottom: 3px solid red;
-    border-bottom-left-radius: 2rem;
-    border-top: 0.1rem solid rgba(0, 0, 0, 1);
-    padding: 1rem;
-    background-color: grey;
+    top: 60px;
+    right: 10px;
+    border: 3px solid var(--secondary-color);
+    border-radius: 2rem;
+    border-top: 0.1rem solid var(--background-light);
+    padding: 0.5rem;
+    background-color: var(--background-dark);
+    box-shadow: 0 0 25px var(--primary-color);
   }
 
   nav.active {
@@ -247,18 +242,30 @@ section {
 
   nav a {
     display: block;
-    font-size: 2rem;
-    margin: 3rem 0;
+    font-size: 1.4rem;
+    margin: 1rem 0.5rem 0 0.5rem;
     transition: all 0.3s ease;
   }
 
   nav a:hover, nav a.active {
-    padding: 1rem;
-    border-radius: 0.5rem;
-    border-bottom: 0.5rem solid red;
+    padding: 0.5rem;
+    color: var(--primary-color);
+    border-radius: 2rem;
+    border-bottom: 0.5rem solid var(--text-dark);
+  }
+
+  .menu {
+    display: inline-block;
+  }
+
+  .menu:hover {
+    transform: scale(1.2);
+    color: var(--primary-color);
+    transition: 0.3s ease;
   }
 
   .beranda {
+    gap: 4rem;
     flex-direction: column;
     margin: 5rem 4rem;
   }
@@ -277,8 +284,46 @@ section {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 768px) {
   .beranda {
-    gap: 4rem;
+    gap: 2rem;
+  }
+
+  .pembuka {
+    font-size: 2.5rem;
+  }
+
+  .beranda .konten .kata-kata #nama {
+    font-size: 3.2rem;
+    margin-top: 20px;
+  }
+
+  .beranda .konten h1 {
+    font-size: 2rem;
+  }
+
+  .beranda .konten p {
+    font-size: 1.5rem;
+  }
+
+  .profile img {
+    width: 60vw;
+  }
+
+  .medsos a {
+    font-size: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .main-game {
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+    letter-spacing: 0.1rem;
+    
+  }
+
+  #proyek a {
+    font-size: 3rem;
   }
 }
