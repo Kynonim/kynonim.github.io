@@ -1,5 +1,6 @@
 const canvas = document.getElementById("kembang-api");
 const ctx = canvas.getContext("2d");
+const title = document.getElementById("title");
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
@@ -109,3 +110,6 @@ window.addEventListener("resize", () => {
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
 });
+
+const tahun = new Date().getFullYear() + 1;
+title.innerHTML = `🎉 Tahun Baru ${tahun} 🎆`
