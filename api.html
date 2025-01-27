@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Year | Riky Ripaldo</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: black;
+    }
+    canvas {
+      display: block;
+    }
+    #title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 60px;
+      font-family: 'Comic Sans MS', cursive;
+      color: white;
+      text-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffff, 0 0 30px #ff0000;
+      z-index: 10;
+      pointer-events: none;
+    }
+    #name {
+      position: relative;
+      z-index: 10;
+      font-size: 14px;
+      font-family: Arial, sans-serif;
+      color: white;
+      margin-bottom: 10px;
+      text-shadow: 0 0 5px #00ff00;
+    }
+  </style>
+</head>
+<body>
+  <div id="title">🎉 Tahun Baru 2025 🎆</div>
+  <canvas id="kembang-api"></canvas>
+  <div id="name">Create by ChatGPT Recode by Riky Ripaldo</div>
+  <script src="./src/fire.js"></script>
+</body>
+</html>

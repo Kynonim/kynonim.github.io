@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #0f1017, #210f0f);
+  color: #ffffff;
+  line-height: 1.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.profile-container {
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  max-width: 800px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.profile-photo {
+  flex: 1;
+  margin-right: 30px;
+  text-align: center;
+}
+
+.profile-photo img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid #ff6f61;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.profile-photo img:hover {
+  transform: scale(1.1);
+  border-color: #ff3b2f;
+}
+
+.profile-info {
+  flex: 2;
+}
+
+.profile-info #nama {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #ffffff;
+  overflow: hidden;
+  border-right: 2px solid #ff6f61; 
+  white-space: nowrap;
+  animation: ketik 0.75s step-end infinite;
+}
+
+.profile-info p {
+  font-size: 1.1rem;
+  color: #e0e0e0;
+  margin-bottom: 15px;
+}
+
+.profile-info a {
+  color: #ff6f61;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.profile-info a:hover {
+  color: #ff3b2f;
+}
+
+.games {
+  display: inline-block;
+  background: #ff6f61;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+  transition: hilang 0.3s ease;
+}
+
+.games:hover {
+  color: #1a1a1a;
+  background: white;
+}
+
+.social-media {
+  margin-top: 20px;
+}
+
+.social-media a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #ffffff;
+  size: 20px;
+  transition: color 0.3s ease;
+}
+
+.social-media a:hover {
+  transform: scale(1.1);
+  border-color: #ff3b2f;
+}
+
+@keyframes ketik {
+  from, to {
+      border-color: transparent;
+  }
+  50% {
+      border-color: #ff6f61;
+  }
+}
+
+@keyframes hilang {
+  from {
+      opacity: 1;
+  }
+  to {
+      opacity: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .profile-container {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .profile-photo {
+      margin-right: 0;
+      margin-bottom: 20px;
+  }
+
+  .profile-photo img {
+      width: 120px;
+      height: 120px;
+  }
+
+  .profile-info h1 {
+      font-size: 2rem;
+  }
+}
+
+.teks-acak {
+  position: absolute;
+  font-weight: bold;
+  white-space: nowrap;
+  animation: mucul 5s ease-in-out forwards;
+}
+
+@keyframes mucul {
+  0% { opacity: 0;}
+  20% { opacity: 1;}
+  80% { opacity: 1;}
+  100% { opacity: 0;}
+}

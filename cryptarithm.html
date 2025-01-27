@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cryptarithm</title>
+    <link rel="stylesheet" href="src/cryptarithm.css">
+</head>
+<body>
+    <video autoplay loop muted class="latar-belakang">
+        <source src="src/bg.mov" type="video/mp4">
+        Browser anda tidak support dengan video tag !
+    </video>
+    <div class="container">
+        <h1>Cryptarithm</h1>
+        <div id="tanya" class="tanya">
+            <input type="text" id="aku" class="huruf" placeholder="ABC">
+            <input type="text" id="sayang" class="huruf" placeholder="DEF">
+            <div class="lines">
+                <div class="garis"></div>
+                <button onclick="BelajarWoy()" class="hasil">+</button>
+            </div>
+            <input type="text" id="kamu" class="huruf" placeholder="GHI">
+        </div>
+        <div class="jawaban" id="jawaban"></div>
+        <div class="loading" id="loading">
+            <div class="spiner" id="spiner"></div> Bentar...
+        </div>
+    </div>
+    <script src="src/cryptarithm.js" charset="UTF-8" type="text/javascript"></script>
+</body>
+</html>
