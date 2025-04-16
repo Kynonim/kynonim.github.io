@@ -1,16 +1,16 @@
 const simple = document.getElementById("simple");
 const nav = document.getElementById("navbar");
 
-const getDeviceInfo = () => {
+function getDeviceInfo() {
   const w = window.innerWidth;
   return w <= 480 ? "Watch"
     : w > 480 && w <= 768 ? "Mobile"
-      : w > 768 && w <= 1024 ? "Tablet"
-        : w > 1024 && w <= 1680 ? "Laptop"
-          : "Desktop";
+    : w > 768 && w <= 1024 ? "Tablet"
+    : w > 1024 && w <= 1680 ? "Laptop"
+    : "Desktop";
 }
 
-const device = getDeviceInfo();
+let device = getDeviceInfo();
 const teks = ["Riky Ripaldo", "Malas Ngoding", "Member Imphnen", "Kynonim"];
 const kolors = ["#FF5733", "#33FF57", "#f5ff33", "#FF3357"];
 const nama = document.getElementById("nama");
@@ -33,12 +33,12 @@ const ketik = () => {
 };
 ketik();
 
-const getFontSize = () => {
+function getFontSize() {
   return device === "Watch" ? 14
     : device === "Mobile" ? 18
-      : device === "Tablet" ? 24
-        : device === "Laptop" ? 32
-          : 40;
+    : device === "Tablet" ? 24
+    : device === "Laptop" ? 32
+    : 40;
 }
 
 const motivasiSection = document.getElementById("motivasi");
@@ -61,7 +61,7 @@ setInterval(() => {
   setTimeout(elementTeks.remove, 3000)
 }, 2000);
 
-const checkNavbar = () => nav.style.display = (nav.style.display === "flex") ? "none" : "flex";
+function checkNavbar() {nav.style.display = (nav.style.display === "flex") ? "none" : "flex";}
 
 window.addEventListener("resize", () => {
   simple.style.color = device === "Mobile" ? kolors[0] : device === "Tablet" ? kolors[1] : device === "Laptop" ? kolors[2] : kolors[3];
