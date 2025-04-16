@@ -20,12 +20,12 @@ let teksIndex = 0, karakterIndex = 0, isHapus = false;
 const ketik = () => {
   const current = teks[teksIndex];
   if (!isHapus) {
-    nama.textContent = current.substring(0, karakterIndex + 1);
+    nama.textContent = current.substring(0, karakterIndex + 1).toString();
     nama.style.color = kolors[teksIndex];
     karakterIndex++;
     karakterIndex === current.length ? (isHapus = true, setTimeout(ketik, 2000)) : setTimeout(ketik, 100);
   } else {
-    nama.textContent = current.substring(0, karakterIndex - 1);
+    nama.textContent = current.substring(0, karakterIndex - 1).toString();
     nama.style.color = kolors[teksIndex];
     karakterIndex--;
     karakterIndex === 0 ? (isHapus = false, teksIndex = (teksIndex + 1) % teks.length, setTimeout(ketik, 500)) : setTimeout(ketik, 50);
@@ -58,7 +58,7 @@ setInterval(() => {
   elementTeks.style.top = `${posY}px`;
 
   motivasiSection.appendChild(elementTeks);
-  setTimeout(elementTeks.remove, 3000)
+  setTimeout(() => elementTeks.remove, 3000)
 }, 2000);
 
 function checkNavbar() {nav.style.display = (nav.style.display === "flex") ? "none" : "flex";}
