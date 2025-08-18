@@ -130,7 +130,7 @@ button {
     <h1 id="kamu">Hallo Selvia</h1>
     <div>
       <button type="submit" id="iya" onclick="window.open('https\://wa.me/6285760640808?text=Iya%20i`m%20ready', '_blank')">Iya</button>
-      <button type="submit" id="tolak" onclick="alert('Why ???')">Ngak mau</button>
+      <button type="submit" id="tolak">Ngak mau</button>
     </div>
   </div>
   <div id="bunga"></div>
@@ -177,7 +177,7 @@ const untukMu = () => {
 
 if (isYou) untukMu();
 
-tolak.addEventListener("mousemove", () => {
+tolak.addEventListener("click", () => {
   const maxoff = 20; //max offset
   const dx = parseFloat(tolak.style.left) || 0;
   const dy = parseFloat(tolak.style.top) || 0;
