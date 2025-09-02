@@ -294,9 +294,6 @@
   .grid {
     display: grid;
   }
-  .inline {
-    display: inline;
-  }
   .inline-block {
     display: inline-block;
   }
@@ -828,6 +825,13 @@
     &:hover {
       @media (hover: hover) {
         color: #10b981;
+      }
+    }
+  }
+  .hover\:text-\[\#38bdf8\] {
+    &:hover {
+      @media (hover: hover) {
+        color: #38bdf8;
       }
     }
   }
