@@ -1,44 +1,24 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portofolio Riky Ripaldo - Orang Malas Tapi Pengen Sukses">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <link rel="stylesheet" href="https://kynonim.github.io/src/style.css">
-    <title>Riky Ripaldo</title>
-</head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Riky Ripaldo | Portofolio</title>
+  <link rel="icon" href="/malas.png" integrity="sha384-JTLmiVtNfYnRWQATixtZd94P4BM2fYFYtErcA0VQ/bfQukqQJqWiIdlIOJoDyIKs"/>
+  <link rel="stylesheet" href="/style.css" integrity="sha384-7dVztpzKytoeB/hvKBLfYZp36YQ9VsOBgbgwoZ9Bk1FnGs7UWDKiek0JX/469N+D"/>
+<link rel="modulepreload" href="/riky.js" crossorigin="anonymous" integrity="sha384-ZV3XFqPRRkXXzrwfxP1vsiyorr8nChbC/eKl1L0ERb9ETjKZDjGEL7uDgzJBBz/M"><link rel="preload" href="/riky_bg.wasm" crossorigin="anonymous" integrity="sha384-QgII7IxKOEZ48OEd/mdGWQP6O5gjXt6MH2pneN2MLfoq8hDXwmXCtR1jh5s+lCm+" as="fetch" type="application/wasm"></head>
 <body>
-    <header>
-        <h1 id="simple" class="pembuka">Simple Portofolio</h1>
-        <i class="fas fa-bars menu" onclick="checkNavbar()"></i>
-        <nav id="navbar">
-            <a href="#beranda" class="active">Beranda</a>
-            <a href="#proyek">Proyek</a>
-            <a id="malas" href="#motivasi">Motivasi</a>
-        </nav>
-    </header>
-    <section id="beranda" class="beranda">
-        <div class="profile">
-            <img src="https://avatars.githubusercontent.com/u/64513539?v=4" alt="Riky Ripaldo">
-        </div>
-        <div class="konten">
-            <div class="kata-kata"><span id="nama"></span></div>
-            <h1>Programmer Malas | Enggan Ngoding</h1>
-            <p>AI terus belajar, Kamu terus rebahan — Mimpi jadi Programmer cuma jadi status doang</p>
-            <div class="medsos">
-                <a href="https://www.facebook.com/RikyXDZ" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-                <a href="https://api.whatsapp.com/send?phone=6285760640808&text=Assalamualaikum%20from%20Github" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                <a href="https://github.com/Kynonim" target="_blank"><i class="fa-brands fa-github"></i></a>
-            </div>
-            <a class="main-game" href="https://kynonim.github.io/t3.html">Main Game</a>
-        </div>
-    </section>
-    <section id="proyek">
-        <a href="https://github.com/Kynonim?tab=repositories" target="_blank">Di Github</a>
-    </section>
-    <section id="motivasi"></section>
-    <script src="https://kynonim.github.io/src/main.js"></script>
-    <!--<footer>Copyright&copy; 2025 Riky Ripaldo</footer>-->
-</body>
+  <!-- Riky Ripaldo -->
+
+<script type="module">
+import init, * as bindings from '/riky.js';
+const wasm = await init({ module_or_path: '/riky_bg.wasm' });
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script></body>
 </html>
