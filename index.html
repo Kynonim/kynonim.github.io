@@ -4,21 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Riky Ripaldo | Portofolio</title>
-  <link rel="icon" href="/malas.png" integrity="sha384-JTLmiVtNfYnRWQATixtZd94P4BM2fYFYtErcA0VQ/bfQukqQJqWiIdlIOJoDyIKs"/>
-  <link rel="stylesheet" href="/style.css" integrity="sha384-7dVztpzKytoeB/hvKBLfYZp36YQ9VsOBgbgwoZ9Bk1FnGs7UWDKiek0JX/469N+D"/>
-<link rel="modulepreload" href="/riky.js" crossorigin="anonymous" integrity="sha384-ZV3XFqPRRkXXzrwfxP1vsiyorr8nChbC/eKl1L0ERb9ETjKZDjGEL7uDgzJBBz/M"><link rel="preload" href="/riky_bg.wasm" crossorigin="anonymous" integrity="sha384-QgII7IxKOEZ48OEd/mdGWQP6O5gjXt6MH2pneN2MLfoq8hDXwmXCtR1jh5s+lCm+" as="fetch" type="application/wasm"></head>
+  <link rel="icon" href="/malas.png" integrity="sha384-JTLmiVtNfYnRWQATixtZd94P4BM2fYFYtErcA0VQ/bfQukqQJqWiIdlIOJoDyIKs" />
+  <link rel="stylesheet" href="/style.css" integrity="sha384-7dVztpzKytoeB/hvKBLfYZp36YQ9VsOBgbgwoZ9Bk1FnGs7UWDKiek0JX/469N+D" />
+  <link rel="modulepreload" href="/riky.js" crossorigin="anonymous" integrity="sha384-ZV3XFqPRRkXXzrwfxP1vsiyorr8nChbC/eKl1L0ERb9ETjKZDjGEL7uDgzJBBz/M">
+  <link rel="preload" href="/riky_bg.wasm" crossorigin="anonymous" integrity="sha384-QgII7IxKOEZ48OEd/mdGWQP6O5gjXt6MH2pneN2MLfoq8hDXwmXCtR1jh5s+lCm+" as="fetch" type="application/wasm">
+</head>
 <body>
   <!-- Riky Ripaldo -->
+  <script type="module">
+    import init, * as bindings from '/riky.js';
+    const wasm = await init({ module_or_path: '/riky_bg.wasm' });
+    window.wasmBindings = bindings;
 
-<script type="module">
-import init, * as bindings from '/riky.js';
-const wasm = await init({ module_or_path: '/riky_bg.wasm' });
-
-
-window.wasmBindings = bindings;
-
-
-dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
-
-</script></body>
+    dispatchEvent(new CustomEvent("TrunkApplicationStarted", { detail: { wasm } }));
+  </script>
+</body>
 </html>
