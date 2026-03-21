@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stop Judol Woy</title>
+  <link rel="stylesheet" href="./style-3ab3edcbda48f64b.css"
+    integrity="sha384-TqYn1ebr/vEe2paKwW7kwpLfX03F5A71YbsMIxbWfMqTI0cDZcbMpj5hIYTzYOS4" />
+  <link rel="modulepreload" href="./basmi-judol-6837aa149bd3de1b.js" crossorigin="anonymous"
+    integrity="sha384-Bj0VTTrt0U+ZLmh5+rw/tmZXddVJ1Bomvfomq7ceWRdbtLqa+f6p7rq0j4wrrYOy">
+  <link rel="preload" href="./basmi-judol-6837aa149bd3de1b_bg.wasm" crossorigin="anonymous"
+    integrity="sha384-jbluN1EY8dsI4q+FudXsgtJLOibGWc/O401axcwsatRocxHsm0XojDIk/aMppTiz" as="fetch"
+    type="application/wasm">
+</head>
+
+<body>
+  <!-- Ngak ada promosi judol disini -->
+  <!-- Ini Dibuat untuk menyadarkan orang yang udah kerasukan jin runkad -->
+  <!-- nanti gw update kalau ada waktu -->
+
+  <script type="module">
+    import init, * as bindings from '/basmi-judol-6837aa149bd3de1b.js';
+    const wasm = await init({ module_or_path: '/basmi-judol-6837aa149bd3de1b_bg.wasm' });
+
+
+    window.wasmBindings = bindings;
+
+
+    dispatchEvent(new CustomEvent("TrunkApplicationStarted", { detail: { wasm } }));
+
+  </script>
+</body>
+
+</html>
