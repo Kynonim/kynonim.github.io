@@ -473,8 +473,8 @@
   .bg-clip-text {
     background-clip: text;
   }
-  .object-cover {
-    object-fit: cover;
+  .object-contain {
+    object-fit: contain;
   }
   .p-2 {
     padding: calc(var(--spacing) * 2);
