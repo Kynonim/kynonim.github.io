@@ -279,6 +279,9 @@
   .inline-block {
     display: inline-block;
   }
+  .aspect-square {
+    aspect-ratio: 1 / 1;
+  }
   .h-1 {
     height: calc(var(--spacing) * 1);
   }
@@ -293,6 +296,9 @@
   }
   .w-28 {
     width: calc(var(--spacing) * 28);
+  }
+  .w-full {
+    width: 100%;
   }
   .w-max {
     width: max-content;
@@ -467,8 +473,8 @@
   .bg-clip-text {
     background-clip: text;
   }
-  .object-contain {
-    object-fit: contain;
+  .object-cover {
+    object-fit: cover;
   }
   .p-2 {
     padding: calc(var(--spacing) * 2);
