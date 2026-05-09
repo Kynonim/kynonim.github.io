@@ -1,0 +1,9147 @@
+[
+  {
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba",
+      "native": "Aruba"
+    },
+    "code": {
+      "alpha2": "AW",
+      "alpha3": "ABW",
+      "numeric": "533",
+      "ioc": "ARU",
+      "phone": "+297"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "AWG",
+      "name": "Aruban florin",
+      "symbol": "\u0192"
+    },
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "Dutch",
+      "Papiamento"
+    ],
+    "geolocation": [
+      12.5,
+      -69.96666666
+    ],
+    "landlocked": false,
+    "area": 180,
+    "flag": "\ud83c\udde6\ud83c\uddfc",
+    "domain": ".aw"
+  },
+  {
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan",
+      "native": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+    },
+    "code": {
+      "alpha2": "AF",
+      "alpha3": "AFG",
+      "numeric": "004",
+      "ioc": "AFG",
+      "phone": "+93"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "\u060b"
+    },
+    "capital": "Kabul",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Dari",
+      "Pashto",
+      "Turkmen"
+    ],
+    "geolocation": [
+      33,
+      65
+    ],
+    "landlocked": true,
+    "area": 652230,
+    "flag": "\ud83c\udde6\ud83c\uddeb",
+    "domain": ".af"
+  },
+  {
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola",
+      "native": "Angola"
+    },
+    "code": {
+      "alpha2": "AO",
+      "alpha3": "AGO",
+      "numeric": "024",
+      "ioc": "ANG",
+      "phone": "+244"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AOA",
+      "name": "Angolan kwanza",
+      "symbol": "Kz"
+    },
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "geolocation": [
+      -12.5,
+      18.5
+    ],
+    "landlocked": false,
+    "area": 1246700,
+    "flag": "\ud83c\udde6\ud83c\uddf4",
+    "domain": ".ao"
+  },
+  {
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla",
+      "native": "Anguilla"
+    },
+    "code": {
+      "alpha2": "AI",
+      "alpha3": "AIA",
+      "numeric": "660",
+      "ioc": "",
+      "phone": "+1264"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "The Valley",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      18.25,
+      -63.16666666
+    ],
+    "landlocked": false,
+    "area": 91,
+    "flag": "\ud83c\udde6\ud83c\uddee",
+    "domain": ".ai"
+  },
+  {
+    "name": {
+      "common": "\u00c5land Islands",
+      "official": "\u00c5land Islands",
+      "native": "\u00c5land"
+    },
+    "code": {
+      "alpha2": "AX",
+      "alpha3": "ALA",
+      "numeric": "248",
+      "ioc": "",
+      "phone": "+35818"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Swedish"
+    ],
+    "geolocation": [
+      60.116667,
+      19.9
+    ],
+    "landlocked": false,
+    "area": 1580,
+    "flag": "\ud83c\udde6\ud83c\uddfd",
+    "domain": ".ax"
+  },
+  {
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania",
+      "native": "Shqip\u00ebria"
+    },
+    "code": {
+      "alpha2": "AL",
+      "alpha3": "ALB",
+      "numeric": "008",
+      "ioc": "ALB",
+      "phone": "+355"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ALL",
+      "name": "Albanian lek",
+      "symbol": "L"
+    },
+    "capital": "Tirana",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Albanian"
+    ],
+    "geolocation": [
+      41,
+      20
+    ],
+    "landlocked": false,
+    "area": 28748,
+    "flag": "\ud83c\udde6\ud83c\uddf1",
+    "domain": ".al"
+  },
+  {
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra",
+      "native": "Andorra"
+    },
+    "code": {
+      "alpha2": "AD",
+      "alpha3": "AND",
+      "numeric": "020",
+      "ioc": "AND",
+      "phone": "+376"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Catalan"
+    ],
+    "geolocation": [
+      42.5,
+      1.5
+    ],
+    "landlocked": true,
+    "area": 468,
+    "flag": "\ud83c\udde6\ud83c\udde9",
+    "domain": ".ad"
+  },
+  {
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "native": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
+    },
+    "code": {
+      "alpha2": "AE",
+      "alpha3": "ARE",
+      "numeric": "784",
+      "ioc": "UAE",
+      "phone": "+971"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "\u062f.\u0625"
+    },
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      24,
+      54
+    ],
+    "landlocked": false,
+    "area": 83600,
+    "flag": "\ud83c\udde6\ud83c\uddea",
+    "domain": ".ae"
+  },
+  {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "native": "Argentina"
+    },
+    "code": {
+      "alpha2": "AR",
+      "alpha3": "ARG",
+      "numeric": "032",
+      "ioc": "ARG",
+      "phone": "+54"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ARS",
+      "name": "Argentine peso",
+      "symbol": "$"
+    },
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Guaran\u00ed",
+      "Spanish"
+    ],
+    "geolocation": [
+      -34,
+      -64
+    ],
+    "landlocked": false,
+    "area": 2780400,
+    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "domain": ".ar"
+  },
+  {
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia",
+      "native": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
+    },
+    "code": {
+      "alpha2": "AM",
+      "alpha3": "ARM",
+      "numeric": "051",
+      "ioc": "ARM",
+      "phone": "+374"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": "\u058f"
+    },
+    "capital": "Yerevan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Armenian"
+    ],
+    "geolocation": [
+      40,
+      45
+    ],
+    "landlocked": true,
+    "area": 29743,
+    "flag": "\ud83c\udde6\ud83c\uddf2",
+    "domain": ".am"
+  },
+  {
+    "name": {
+      "common": "American Samoa",
+      "official": "American Samoa",
+      "native": "American Samoa"
+    },
+    "code": {
+      "alpha2": "AS",
+      "alpha3": "ASM",
+      "numeric": "016",
+      "ioc": "ASA",
+      "phone": "+1684"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "geolocation": [
+      -14.33333333,
+      -170
+    ],
+    "landlocked": false,
+    "area": 199,
+    "flag": "\ud83c\udde6\ud83c\uddf8",
+    "domain": ".as"
+  },
+  {
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica",
+      "native": ""
+    },
+    "code": {
+      "alpha2": "AQ",
+      "alpha3": "ATA",
+      "numeric": "010",
+      "ioc": "",
+      "phone": ""
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": null,
+    "capital": "",
+    "region": "Antarctic",
+    "subregion": "",
+    "languages": [],
+    "geolocation": [
+      -90,
+      0
+    ],
+    "landlocked": false,
+    "area": 14000000,
+    "flag": "\ud83c\udde6\ud83c\uddf6",
+    "domain": ".aq"
+  },
+  {
+    "name": {
+      "common": "French Southern and Antarctic Lands",
+      "official": "Territory of the French Southern and Antarctic Lands",
+      "native": "Terres australes et antarctiques fran\u00e7aises"
+    },
+    "code": {
+      "alpha2": "TF",
+      "alpha3": "ATF",
+      "numeric": "260",
+      "ioc": "",
+      "phone": "+262"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Port-aux-Fran\u00e7ais",
+    "region": "Antarctic",
+    "subregion": "",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -49.25,
+      69.167
+    ],
+    "landlocked": false,
+    "area": 7747,
+    "flag": "\ud83c\uddf9\ud83c\uddeb",
+    "domain": ".tf"
+  },
+  {
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda",
+      "native": "Antigua and Barbuda"
+    },
+    "code": {
+      "alpha2": "AG",
+      "alpha3": "ATG",
+      "numeric": "028",
+      "ioc": "ANT",
+      "phone": "+1268"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "Saint John's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      17.05,
+      -61.8
+    ],
+    "landlocked": false,
+    "area": 442,
+    "flag": "\ud83c\udde6\ud83c\uddec",
+    "domain": ".ag"
+  },
+  {
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia",
+      "native": "Australia"
+    },
+    "code": {
+      "alpha2": "AU",
+      "alpha3": "AUS",
+      "numeric": "036",
+      "ioc": "AUS",
+      "phone": "+61"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -27,
+      133
+    ],
+    "landlocked": false,
+    "area": 7692024,
+    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "domain": ".au"
+  },
+  {
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria",
+      "native": "\u00d6sterreich"
+    },
+    "code": {
+      "alpha2": "AT",
+      "alpha3": "AUT",
+      "numeric": "040",
+      "ioc": "AUT",
+      "phone": "+43"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Vienna",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": [
+      "Austro-Bavarian German"
+    ],
+    "geolocation": [
+      47.33333333,
+      13.33333333
+    ],
+    "landlocked": true,
+    "area": 83871,
+    "flag": "\ud83c\udde6\ud83c\uddf9",
+    "domain": ".at"
+  },
+  {
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan",
+      "native": "Az\u0259rbaycan"
+    },
+    "code": {
+      "alpha2": "AZ",
+      "alpha3": "AZE",
+      "numeric": "031",
+      "ioc": "AZE",
+      "phone": "+994"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AZN",
+      "name": "Azerbaijani manat",
+      "symbol": "\u20bc"
+    },
+    "capital": "Baku",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Azerbaijani",
+      "Russian"
+    ],
+    "geolocation": [
+      40.5,
+      47.5
+    ],
+    "landlocked": true,
+    "area": 86600,
+    "flag": "\ud83c\udde6\ud83c\uddff",
+    "domain": ".az"
+  },
+  {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "native": "Burundi"
+    },
+    "code": {
+      "alpha2": "BI",
+      "alpha3": "BDI",
+      "numeric": "108",
+      "ioc": "BDI",
+      "phone": "+257"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BIF",
+      "name": "Burundian franc",
+      "symbol": "Fr"
+    },
+    "capital": "Gitega",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French",
+      "Kirundi"
+    ],
+    "geolocation": [
+      -3.5,
+      30
+    ],
+    "landlocked": true,
+    "area": 27834,
+    "flag": "\ud83c\udde7\ud83c\uddee",
+    "domain": ".bi"
+  },
+  {
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium",
+      "native": "Belgien"
+    },
+    "code": {
+      "alpha2": "BE",
+      "alpha3": "BEL",
+      "numeric": "056",
+      "ioc": "BEL",
+      "phone": "+32"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German",
+      "French",
+      "Dutch"
+    ],
+    "geolocation": [
+      50.83333333,
+      4
+    ],
+    "landlocked": false,
+    "area": 30528,
+    "flag": "\ud83c\udde7\ud83c\uddea",
+    "domain": ".be"
+  },
+  {
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin",
+      "native": "B\u00e9nin"
+    },
+    "code": {
+      "alpha2": "BJ",
+      "alpha3": "BEN",
+      "numeric": "204",
+      "ioc": "BEN",
+      "phone": "+229"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      9.5,
+      2.25
+    ],
+    "landlocked": false,
+    "area": 112622,
+    "flag": "\ud83c\udde7\ud83c\uddef",
+    "domain": ".bj"
+  },
+  {
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso",
+      "native": "Burkina Faso"
+    },
+    "code": {
+      "alpha2": "BF",
+      "alpha3": "BFA",
+      "numeric": "854",
+      "ioc": "BUR",
+      "phone": "+226"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      13,
+      -2
+    ],
+    "landlocked": true,
+    "area": 272967,
+    "flag": "\ud83c\udde7\ud83c\uddeb",
+    "domain": ".bf"
+  },
+  {
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh",
+      "native": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6"
+    },
+    "code": {
+      "alpha2": "BD",
+      "alpha3": "BGD",
+      "numeric": "050",
+      "ioc": "BAN",
+      "phone": "+880"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BDT",
+      "name": "Bangladeshi taka",
+      "symbol": "\u09f3"
+    },
+    "capital": "Dhaka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Bengali"
+    ],
+    "geolocation": [
+      24,
+      90
+    ],
+    "landlocked": false,
+    "area": 147570,
+    "flag": "\ud83c\udde7\ud83c\udde9",
+    "domain": ".bd"
+  },
+  {
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria",
+      "native": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+    },
+    "code": {
+      "alpha2": "BG",
+      "alpha3": "BGR",
+      "numeric": "100",
+      "ioc": "BUL",
+      "phone": "+359"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BGN",
+      "name": "Bulgarian lev",
+      "symbol": "\u043b\u0432"
+    },
+    "capital": "Sofia",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Bulgarian"
+    ],
+    "geolocation": [
+      43,
+      25
+    ],
+    "landlocked": false,
+    "area": 110879,
+    "flag": "\ud83c\udde7\ud83c\uddec",
+    "domain": ".bg"
+  },
+  {
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain",
+      "native": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
+    },
+    "code": {
+      "alpha2": "BH",
+      "alpha3": "BHR",
+      "numeric": "048",
+      "ioc": "BRN",
+      "phone": "+973"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BHD",
+      "name": "Bahraini dinar",
+      "symbol": ".\u062f.\u0628"
+    },
+    "capital": "Manama",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      26,
+      50.55
+    ],
+    "landlocked": false,
+    "area": 765,
+    "flag": "\ud83c\udde7\ud83c\udded",
+    "domain": ".bh"
+  },
+  {
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas",
+      "native": "Bahamas"
+    },
+    "code": {
+      "alpha2": "BS",
+      "alpha3": "BHS",
+      "numeric": "044",
+      "ioc": "BAH",
+      "phone": "+1242"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BSD",
+      "name": "Bahamian dollar",
+      "symbol": "$"
+    },
+    "capital": "Nassau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      24.25,
+      -76
+    ],
+    "landlocked": false,
+    "area": 13943,
+    "flag": "\ud83c\udde7\ud83c\uddf8",
+    "domain": ".bs"
+  },
+  {
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina",
+      "native": "Bosna i Hercegovina"
+    },
+    "code": {
+      "alpha2": "BA",
+      "alpha3": "BIH",
+      "numeric": "070",
+      "ioc": "BIH",
+      "phone": "+387"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BAM",
+      "name": "Bosnia and Herzegovina convertible mark",
+      "symbol": "KM"
+    },
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "geolocation": [
+      44,
+      18
+    ],
+    "landlocked": false,
+    "area": 51209,
+    "flag": "\ud83c\udde7\ud83c\udde6",
+    "domain": ".ba"
+  },
+  {
+    "name": {
+      "common": "Saint Barth\u00e9lemy",
+      "official": "Collectivity of Saint Barth\u00e9lemy",
+      "native": "Saint-Barth\u00e9lemy"
+    },
+    "code": {
+      "alpha2": "BL",
+      "alpha3": "BLM",
+      "numeric": "652",
+      "ioc": "",
+      "phone": "+590"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Gustavia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      18.5,
+      -63.41666666
+    ],
+    "landlocked": false,
+    "area": 21,
+    "flag": "\ud83c\udde7\ud83c\uddf1",
+    "domain": ".bl"
+  },
+  {
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "native": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "code": {
+      "alpha2": "SH",
+      "alpha3": "SHN",
+      "numeric": "654",
+      "ioc": "",
+      "phone": "+290"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "GBP",
+      "name": "Pound sterling",
+      "symbol": "\u00a3"
+    },
+    "capital": "Jamestown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -15.95,
+      -5.72
+    ],
+    "landlocked": false,
+    "area": 394,
+    "flag": "\ud83c\uddf8\ud83c\udded",
+    "domain": ".sh"
+  },
+  {
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus",
+      "native": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c"
+    },
+    "code": {
+      "alpha2": "BY",
+      "alpha3": "BLR",
+      "numeric": "112",
+      "ioc": "BLR",
+      "phone": "+375"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BYN",
+      "name": "Belarusian ruble",
+      "symbol": "Br"
+    },
+    "capital": "Minsk",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "geolocation": [
+      53,
+      28
+    ],
+    "landlocked": true,
+    "area": 207600,
+    "flag": "\ud83c\udde7\ud83c\uddfe",
+    "domain": ".by"
+  },
+  {
+    "name": {
+      "common": "Belize",
+      "official": "Belize",
+      "native": "Belize"
+    },
+    "code": {
+      "alpha2": "BZ",
+      "alpha3": "BLZ",
+      "numeric": "084",
+      "ioc": "BIZ",
+      "phone": "+501"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BZD",
+      "name": "Belize dollar",
+      "symbol": "$"
+    },
+    "capital": "Belmopan",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Belizean Creole",
+      "English",
+      "Spanish"
+    ],
+    "geolocation": [
+      17.25,
+      -88.75
+    ],
+    "landlocked": false,
+    "area": 22966,
+    "flag": "\ud83c\udde7\ud83c\uddff",
+    "domain": ".bz"
+  },
+  {
+    "name": {
+      "common": "Bermuda",
+      "official": "Bermuda",
+      "native": "Bermuda"
+    },
+    "code": {
+      "alpha2": "BM",
+      "alpha3": "BMU",
+      "numeric": "060",
+      "ioc": "BER",
+      "phone": "+1441"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "BMD",
+      "name": "Bermudian dollar",
+      "symbol": "$"
+    },
+    "capital": "Hamilton",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      32.33333333,
+      -64.75
+    ],
+    "landlocked": false,
+    "area": 54,
+    "flag": "\ud83c\udde7\ud83c\uddf2",
+    "domain": ".bm"
+  },
+  {
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia",
+      "native": "Wuliwya"
+    },
+    "code": {
+      "alpha2": "BO",
+      "alpha3": "BOL",
+      "numeric": "068",
+      "ioc": "BOL",
+      "phone": "+591"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BOB",
+      "name": "Bolivian boliviano",
+      "symbol": "Bs."
+    },
+    "capital": "Sucre",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Aymara",
+      "Guaran\u00ed",
+      "Quechua",
+      "Spanish"
+    ],
+    "geolocation": [
+      -17,
+      -65
+    ],
+    "landlocked": true,
+    "area": 1098581,
+    "flag": "\ud83c\udde7\ud83c\uddf4",
+    "domain": ".bo"
+  },
+  {
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "native": "Caribisch Nederland"
+    },
+    "code": {
+      "alpha2": "BQ",
+      "alpha3": "BES",
+      "numeric": "535",
+      "ioc": "",
+      "phone": "+599"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "geolocation": [
+      12.18,
+      -68.25
+    ],
+    "landlocked": false,
+    "area": 328,
+    "flag": "",
+    "domain": ".bq"
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil",
+      "native": "Brasil"
+    },
+    "code": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "numeric": "076",
+      "ioc": "BRA",
+      "phone": "+55"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BRL",
+      "name": "Brazilian real",
+      "symbol": "R$"
+    },
+    "capital": "Bras\u00edlia",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Portuguese"
+    ],
+    "geolocation": [
+      -10,
+      -55
+    ],
+    "landlocked": false,
+    "area": 8515767,
+    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "domain": ".br"
+  },
+  {
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados",
+      "native": "Barbados"
+    },
+    "code": {
+      "alpha2": "BB",
+      "alpha3": "BRB",
+      "numeric": "052",
+      "ioc": "BAR",
+      "phone": "+1246"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BBD",
+      "name": "Barbadian dollar",
+      "symbol": "$"
+    },
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      13.16666666,
+      -59.53333333
+    ],
+    "landlocked": false,
+    "area": 430,
+    "flag": "\ud83c\udde7\ud83c\udde7",
+    "domain": ".bb"
+  },
+  {
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace",
+      "native": "Negara Brunei Darussalam"
+    },
+    "code": {
+      "alpha2": "BN",
+      "alpha3": "BRN",
+      "numeric": "096",
+      "ioc": "BRU",
+      "phone": "+673"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BND",
+      "name": "Brunei dollar",
+      "symbol": "$"
+    },
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Malay"
+    ],
+    "geolocation": [
+      4.5,
+      114.66666666
+    ],
+    "landlocked": false,
+    "area": 5765,
+    "flag": "\ud83c\udde7\ud83c\uddf3",
+    "domain": ".bn"
+  },
+  {
+    "name": {
+      "common": "Bhutan",
+      "official": "Kingdom of Bhutan",
+      "native": "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0b"
+    },
+    "code": {
+      "alpha2": "BT",
+      "alpha3": "BTN",
+      "numeric": "064",
+      "ioc": "BHU",
+      "phone": "+975"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BTN",
+      "name": "Bhutanese ngultrum",
+      "symbol": "Nu."
+    },
+    "capital": "Thimphu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Dzongkha"
+    ],
+    "geolocation": [
+      27.5,
+      90.5
+    ],
+    "landlocked": true,
+    "area": 38394,
+    "flag": "\ud83c\udde7\ud83c\uddf9",
+    "domain": ".bt"
+  },
+  {
+    "name": {
+      "common": "Bouvet Island",
+      "official": "Bouvet Island",
+      "native": "Bouvet\u00f8ya"
+    },
+    "code": {
+      "alpha2": "BV",
+      "alpha3": "BVT",
+      "numeric": "074",
+      "ioc": "",
+      "phone": "+47"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": null,
+    "capital": "",
+    "region": "Antarctic",
+    "subregion": "",
+    "languages": [
+      "Norwegian"
+    ],
+    "geolocation": [
+      -54.43333333,
+      3.4
+    ],
+    "landlocked": false,
+    "area": 49,
+    "flag": "\ud83c\udde7\ud83c\uddfb",
+    "domain": ".bv"
+  },
+  {
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana",
+      "native": "Botswana"
+    },
+    "code": {
+      "alpha2": "BW",
+      "alpha3": "BWA",
+      "numeric": "072",
+      "ioc": "BOT",
+      "phone": "+267"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    },
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "geolocation": [
+      -22,
+      24
+    ],
+    "landlocked": true,
+    "area": 582000,
+    "flag": "\ud83c\udde7\ud83c\uddfc",
+    "domain": ".bw"
+  },
+  {
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic",
+      "native": "R\u00e9publique centrafricaine"
+    },
+    "code": {
+      "alpha2": "CF",
+      "alpha3": "CAF",
+      "numeric": "140",
+      "ioc": "CAF",
+      "phone": "+236"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "geolocation": [
+      7,
+      21
+    ],
+    "landlocked": true,
+    "area": 622984,
+    "flag": "\ud83c\udde8\ud83c\uddeb",
+    "domain": ".cf"
+  },
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "native": "Canada"
+    },
+    "code": {
+      "alpha2": "CA",
+      "alpha3": "CAN",
+      "numeric": "124",
+      "ioc": "CAN",
+      "phone": "+1204"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$"
+    },
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "geolocation": [
+      60,
+      -95
+    ],
+    "landlocked": false,
+    "area": 9984670,
+    "flag": "\ud83c\udde8\ud83c\udde6",
+    "domain": ".ca"
+  },
+  {
+    "name": {
+      "common": "Cocos (Keeling) Islands",
+      "official": "Territory of the Cocos (Keeling) Islands",
+      "native": "Cocos (Keeling) Islands"
+    },
+    "code": {
+      "alpha2": "CC",
+      "alpha3": "CCK",
+      "numeric": "166",
+      "ioc": "",
+      "phone": "+61"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "West Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -12.5,
+      96.83333333
+    ],
+    "landlocked": false,
+    "area": 14,
+    "flag": "\ud83c\udde8\ud83c\udde8",
+    "domain": ".cc"
+  },
+  {
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation",
+      "native": "Suisse"
+    },
+    "code": {
+      "alpha2": "CH",
+      "alpha3": "CHE",
+      "numeric": "756",
+      "ioc": "SUI",
+      "phone": "+41"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr."
+    },
+    "capital": "Bern",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "French",
+      "Swiss German",
+      "Italian",
+      "Romansh"
+    ],
+    "geolocation": [
+      47,
+      8
+    ],
+    "landlocked": true,
+    "area": 41284,
+    "flag": "\ud83c\udde8\ud83c\udded",
+    "domain": ".ch"
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "native": "Chile"
+    },
+    "code": {
+      "alpha2": "CL",
+      "alpha3": "CHL",
+      "numeric": "152",
+      "ioc": "CHI",
+      "phone": "+56"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CLP",
+      "name": "Chilean peso",
+      "symbol": "$"
+    },
+    "capital": "Santiago",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      -30,
+      -71
+    ],
+    "landlocked": false,
+    "area": 756102,
+    "flag": "\ud83c\udde8\ud83c\uddf1",
+    "domain": ".cl"
+  },
+  {
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China",
+      "native": "\u4e2d\u56fd"
+    },
+    "code": {
+      "alpha2": "CN",
+      "alpha3": "CHN",
+      "numeric": "156",
+      "ioc": "CHN",
+      "phone": "+86"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CNY",
+      "name": "Chinese yuan",
+      "symbol": "\u00a5"
+    },
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Chinese"
+    ],
+    "geolocation": [
+      35,
+      105
+    ],
+    "landlocked": false,
+    "area": 9706961,
+    "flag": "\ud83c\udde8\ud83c\uddf3",
+    "domain": ".cn"
+  },
+  {
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of C\u00f4te d'Ivoire",
+      "native": "C\u00f4te d'Ivoire"
+    },
+    "code": {
+      "alpha2": "CI",
+      "alpha3": "CIV",
+      "numeric": "384",
+      "ioc": "CIV",
+      "phone": "+225"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      8,
+      -5
+    ],
+    "landlocked": false,
+    "area": 322463,
+    "flag": "\ud83c\udde8\ud83c\uddee",
+    "domain": ".ci"
+  },
+  {
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon",
+      "native": "Cameroon"
+    },
+    "code": {
+      "alpha2": "CM",
+      "alpha3": "CMR",
+      "numeric": "120",
+      "ioc": "CMR",
+      "phone": "+237"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Yaound\u00e9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "geolocation": [
+      6,
+      12
+    ],
+    "landlocked": false,
+    "area": 475442,
+    "flag": "\ud83c\udde8\ud83c\uddf2",
+    "domain": ".cm"
+  },
+  {
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo",
+      "native": "RD Congo"
+    },
+    "code": {
+      "alpha2": "CD",
+      "alpha3": "COD",
+      "numeric": "180",
+      "ioc": "COD",
+      "phone": "+243"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CDF",
+      "name": "Congolese franc",
+      "symbol": "FC"
+    },
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Swahili"
+    ],
+    "geolocation": [
+      0,
+      25
+    ],
+    "landlocked": false,
+    "area": 2344858,
+    "flag": "\ud83c\udde8\ud83c\udde9",
+    "domain": ".cd"
+  },
+  {
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo",
+      "native": "R\u00e9publique du Congo"
+    },
+    "code": {
+      "alpha2": "CG",
+      "alpha3": "COG",
+      "numeric": "178",
+      "ioc": "CGO",
+      "phone": "+242"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ],
+    "geolocation": [
+      -1,
+      15
+    ],
+    "landlocked": false,
+    "area": 342000,
+    "flag": "\ud83c\udde8\ud83c\uddec",
+    "domain": ".cg"
+  },
+  {
+    "name": {
+      "common": "Cook Islands",
+      "official": "Cook Islands",
+      "native": "Cook Islands"
+    },
+    "code": {
+      "alpha2": "CK",
+      "alpha3": "COK",
+      "numeric": "184",
+      "ioc": "COK",
+      "phone": "+682"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "CKD",
+      "name": "Cook Islands dollar",
+      "symbol": "$"
+    },
+    "capital": "Avarua",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Cook Islands M\u0101ori"
+    ],
+    "geolocation": [
+      -21.23333333,
+      -159.76666666
+    ],
+    "landlocked": false,
+    "area": 236,
+    "flag": "\ud83c\udde8\ud83c\uddf0",
+    "domain": ".ck"
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "native": "Colombia"
+    },
+    "code": {
+      "alpha2": "CO",
+      "alpha3": "COL",
+      "numeric": "170",
+      "ioc": "COL",
+      "phone": "+57"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "COP",
+      "name": "Colombian peso",
+      "symbol": "$"
+    },
+    "capital": "Bogot\u00e1",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      4,
+      -72
+    ],
+    "landlocked": false,
+    "area": 1141748,
+    "flag": "\ud83c\udde8\ud83c\uddf4",
+    "domain": ".co"
+  },
+  {
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros",
+      "native": "\u0627\u0644\u0642\u0645\u0631\u200e"
+    },
+    "code": {
+      "alpha2": "KM",
+      "alpha3": "COM",
+      "numeric": "174",
+      "ioc": "COM",
+      "phone": "+269"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KMF",
+      "name": "Comorian franc",
+      "symbol": "Fr"
+    },
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "French",
+      "Comorian"
+    ],
+    "geolocation": [
+      -12.16666666,
+      44.25
+    ],
+    "landlocked": false,
+    "area": 1862,
+    "flag": "\ud83c\uddf0\ud83c\uddf2",
+    "domain": ".km"
+  },
+  {
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde",
+      "native": "Cabo Verde"
+    },
+    "code": {
+      "alpha2": "CV",
+      "alpha3": "CPV",
+      "numeric": "132",
+      "ioc": "CPV",
+      "phone": "+238"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CVE",
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    },
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "geolocation": [
+      16,
+      -24
+    ],
+    "landlocked": false,
+    "area": 4033,
+    "flag": "\ud83c\udde8\ud83c\uddfb",
+    "domain": ".cv"
+  },
+  {
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica",
+      "native": "Costa Rica"
+    },
+    "code": {
+      "alpha2": "CR",
+      "alpha3": "CRI",
+      "numeric": "188",
+      "ioc": "CRC",
+      "phone": "+506"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CRC",
+      "name": "Costa Rican col\u00f3n",
+      "symbol": "\u20a1"
+    },
+    "capital": "San Jos\u00e9",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      10,
+      -84
+    ],
+    "landlocked": false,
+    "area": 51100,
+    "flag": "\ud83c\udde8\ud83c\uddf7",
+    "domain": ".cr"
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "native": "Cuba"
+    },
+    "code": {
+      "alpha2": "CU",
+      "alpha3": "CUB",
+      "numeric": "192",
+      "ioc": "CUB",
+      "phone": "+53"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CUC",
+      "name": "Cuban convertible peso",
+      "symbol": "$"
+    },
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      21.5,
+      -80
+    ],
+    "landlocked": false,
+    "area": 109884,
+    "flag": "\ud83c\udde8\ud83c\uddfa",
+    "domain": ".cu"
+  },
+  {
+    "name": {
+      "common": "Cura\u00e7ao",
+      "official": "Country of Cura\u00e7ao",
+      "native": "Cura\u00e7ao"
+    },
+    "code": {
+      "alpha2": "CW",
+      "alpha3": "CUW",
+      "numeric": "531",
+      "ioc": "",
+      "phone": "+599"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "\u0192"
+    },
+    "capital": "Willemstad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "geolocation": [
+      12.116667,
+      -68.933333
+    ],
+    "landlocked": false,
+    "area": 444,
+    "flag": "\ud83c\udde8\ud83c\uddfc",
+    "domain": ".cw"
+  },
+  {
+    "name": {
+      "common": "Christmas Island",
+      "official": "Territory of Christmas Island",
+      "native": "Christmas Island"
+    },
+    "code": {
+      "alpha2": "CX",
+      "alpha3": "CXR",
+      "numeric": "162",
+      "ioc": "",
+      "phone": "+61"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -10.5,
+      105.66666666
+    ],
+    "landlocked": false,
+    "area": 135,
+    "flag": "\ud83c\udde8\ud83c\uddfd",
+    "domain": ".cx"
+  },
+  {
+    "name": {
+      "common": "Cayman Islands",
+      "official": "Cayman Islands",
+      "native": "Cayman Islands"
+    },
+    "code": {
+      "alpha2": "KY",
+      "alpha3": "CYM",
+      "numeric": "136",
+      "ioc": "CAY",
+      "phone": "+1345"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "KYD",
+      "name": "Cayman Islands dollar",
+      "symbol": "$"
+    },
+    "capital": "George Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      19.5,
+      -80.5
+    ],
+    "landlocked": false,
+    "area": 264,
+    "flag": "\ud83c\uddf0\ud83c\uddfe",
+    "domain": ".ky"
+  },
+  {
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus",
+      "native": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+    },
+    "code": {
+      "alpha2": "CY",
+      "alpha3": "CYP",
+      "numeric": "196",
+      "ioc": "CYP",
+      "phone": "+357"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Nicosia",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "geolocation": [
+      35,
+      33
+    ],
+    "landlocked": false,
+    "area": 9251,
+    "flag": "\ud83c\udde8\ud83c\uddfe",
+    "domain": ".cy"
+  },
+  {
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic",
+      "native": "\u010cesko"
+    },
+    "code": {
+      "alpha2": "CZ",
+      "alpha3": "CZE",
+      "numeric": "203",
+      "ioc": "CZE",
+      "phone": "+420"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CZK",
+      "name": "Czech koruna",
+      "symbol": "K\u010d"
+    },
+    "capital": "Prague",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": [
+      "Czech",
+      "Slovak"
+    ],
+    "geolocation": [
+      49.75,
+      15.5
+    ],
+    "landlocked": true,
+    "area": 78865,
+    "flag": "\ud83c\udde8\ud83c\uddff",
+    "domain": ".cz"
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "native": "Deutschland"
+    },
+    "code": {
+      "alpha2": "DE",
+      "alpha3": "DEU",
+      "numeric": "276",
+      "ioc": "GER",
+      "phone": "+49"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German"
+    ],
+    "geolocation": [
+      51,
+      9
+    ],
+    "landlocked": false,
+    "area": 357114,
+    "flag": "\ud83c\udde9\ud83c\uddea",
+    "domain": ".de"
+  },
+  {
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti",
+      "native": "\u062c\u064a\u0628\u0648\u062a\u064a\u200e"
+    },
+    "code": {
+      "alpha2": "DJ",
+      "alpha3": "DJI",
+      "numeric": "262",
+      "ioc": "DJI",
+      "phone": "+253"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "DJF",
+      "name": "Djiboutian franc",
+      "symbol": "Fr"
+    },
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "geolocation": [
+      11.5,
+      43
+    ],
+    "landlocked": false,
+    "area": 23200,
+    "flag": "\ud83c\udde9\ud83c\uddef",
+    "domain": ".dj"
+  },
+  {
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica",
+      "native": "Dominica"
+    },
+    "code": {
+      "alpha2": "DM",
+      "alpha3": "DMA",
+      "numeric": "212",
+      "ioc": "DMA",
+      "phone": "+1767"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "Roseau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      15.41666666,
+      -61.33333333
+    ],
+    "landlocked": false,
+    "area": 751,
+    "flag": "\ud83c\udde9\ud83c\uddf2",
+    "domain": ".dm"
+  },
+  {
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark",
+      "native": "Danmark"
+    },
+    "code": {
+      "alpha2": "DK",
+      "alpha3": "DNK",
+      "numeric": "208",
+      "ioc": "DEN",
+      "phone": "+45"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Danish"
+    ],
+    "geolocation": [
+      56,
+      10
+    ],
+    "landlocked": false,
+    "area": 43094,
+    "flag": "\ud83c\udde9\ud83c\uddf0",
+    "domain": ".dk"
+  },
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "native": "Rep\u00fablica Dominicana"
+    },
+    "code": {
+      "alpha2": "DO",
+      "alpha3": "DOM",
+      "numeric": "214",
+      "ioc": "DOM",
+      "phone": "+1809"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "DOP",
+      "name": "Dominican peso",
+      "symbol": "$"
+    },
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      19,
+      -70.66666666
+    ],
+    "landlocked": false,
+    "area": 48671,
+    "flag": "\ud83c\udde9\ud83c\uddf4",
+    "domain": ".do"
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "native": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    },
+    "code": {
+      "alpha2": "DZ",
+      "alpha3": "DZA",
+      "numeric": "012",
+      "ioc": "ALG",
+      "phone": "+213"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "\u062f.\u062c"
+    },
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      28,
+      3
+    ],
+    "landlocked": false,
+    "area": 2381741,
+    "flag": "\ud83c\udde9\ud83c\uddff",
+    "domain": ".dz"
+  },
+  {
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "native": "Ecuador"
+    },
+    "code": {
+      "alpha2": "EC",
+      "alpha3": "ECU",
+      "numeric": "218",
+      "ioc": "ECU",
+      "phone": "+593"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Quito",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      -2,
+      -77.5
+    ],
+    "landlocked": false,
+    "area": 276841,
+    "flag": "\ud83c\uddea\ud83c\udde8",
+    "domain": ".ec"
+  },
+  {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt",
+      "native": "\u0645\u0635\u0631"
+    },
+    "code": {
+      "alpha2": "EG",
+      "alpha3": "EGY",
+      "numeric": "818",
+      "ioc": "EGY",
+      "phone": "+20"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      27,
+      30
+    ],
+    "landlocked": false,
+    "area": 1002450,
+    "flag": "\ud83c\uddea\ud83c\uddec",
+    "domain": ".eg"
+  },
+  {
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea",
+      "native": "\u0625\u0631\u062a\u0631\u064a\u0627\u200e"
+    },
+    "code": {
+      "alpha2": "ER",
+      "alpha3": "ERI",
+      "numeric": "232",
+      "ioc": "ERI",
+      "phone": "+291"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ERN",
+      "name": "Eritrean nakfa",
+      "symbol": "Nfk"
+    },
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ],
+    "geolocation": [
+      15,
+      39
+    ],
+    "landlocked": false,
+    "area": 117600,
+    "flag": "\ud83c\uddea\ud83c\uddf7",
+    "domain": ".er"
+  },
+  {
+    "name": {
+      "common": "Western Sahara",
+      "official": "Sahrawi Arab Democratic Republic",
+      "native": "Western Sahara"
+    },
+    "code": {
+      "alpha2": "EH",
+      "alpha3": "ESH",
+      "numeric": "732",
+      "ioc": "",
+      "phone": "+2125288"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "\u062f\u062c"
+    },
+    "capital": "El Aai\u00fan",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Berber",
+      "Hassaniya",
+      "Spanish"
+    ],
+    "geolocation": [
+      24.5,
+      -13
+    ],
+    "landlocked": false,
+    "area": 266000,
+    "flag": "\ud83c\uddea\ud83c\udded",
+    "domain": ".eh"
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "native": "Espa\u00f1a"
+    },
+    "code": {
+      "alpha2": "ES",
+      "alpha3": "ESP",
+      "numeric": "724",
+      "ioc": "ESP",
+      "phone": "+34"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Madrid",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      40,
+      -4
+    ],
+    "landlocked": false,
+    "area": 505992,
+    "flag": "\ud83c\uddea\ud83c\uddf8",
+    "domain": ".es"
+  },
+  {
+    "name": {
+      "common": "Estonia",
+      "official": "Republic of Estonia",
+      "native": "Eesti"
+    },
+    "code": {
+      "alpha2": "EE",
+      "alpha3": "EST",
+      "numeric": "233",
+      "ioc": "EST",
+      "phone": "+372"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Tallinn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Estonian"
+    ],
+    "geolocation": [
+      59,
+      26
+    ],
+    "landlocked": false,
+    "area": 45227,
+    "flag": "\ud83c\uddea\ud83c\uddea",
+    "domain": ".ee"
+  },
+  {
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia",
+      "native": "\u12a2\u1275\u12ee\u1335\u12eb"
+    },
+    "code": {
+      "alpha2": "ET",
+      "alpha3": "ETH",
+      "numeric": "231",
+      "ioc": "ETH",
+      "phone": "+251"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ETB",
+      "name": "Ethiopian birr",
+      "symbol": "Br"
+    },
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Amharic"
+    ],
+    "geolocation": [
+      8,
+      38
+    ],
+    "landlocked": true,
+    "area": 1104300,
+    "flag": "\ud83c\uddea\ud83c\uddf9",
+    "domain": ".et"
+  },
+  {
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "native": "Suomi"
+    },
+    "code": {
+      "alpha2": "FI",
+      "alpha3": "FIN",
+      "numeric": "246",
+      "ioc": "FIN",
+      "phone": "+358"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Helsinki",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "geolocation": [
+      64,
+      26
+    ],
+    "landlocked": false,
+    "area": 338424,
+    "flag": "\ud83c\uddeb\ud83c\uddee",
+    "domain": ".fi"
+  },
+  {
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji",
+      "native": "Fiji"
+    },
+    "code": {
+      "alpha2": "FJ",
+      "alpha3": "FJI",
+      "numeric": "242",
+      "ioc": "FIJ",
+      "phone": "+679"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "FJD",
+      "name": "Fijian dollar",
+      "symbol": "$"
+    },
+    "capital": "Suva",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "English",
+      "Fijian",
+      "Fiji Hindi"
+    ],
+    "geolocation": [
+      -18,
+      175
+    ],
+    "landlocked": false,
+    "area": 18272,
+    "flag": "\ud83c\uddeb\ud83c\uddef",
+    "domain": ".fj"
+  },
+  {
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands",
+      "native": "Falkland Islands"
+    },
+    "code": {
+      "alpha2": "FK",
+      "alpha3": "FLK",
+      "numeric": "238",
+      "ioc": "",
+      "phone": "+500"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "FKP",
+      "name": "Falkland Islands pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Stanley",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -51.75,
+      -59
+    ],
+    "landlocked": false,
+    "area": 12173,
+    "flag": "\ud83c\uddeb\ud83c\uddf0",
+    "domain": ".fk"
+  },
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic",
+      "native": "France"
+    },
+    "code": {
+      "alpha2": "FR",
+      "alpha3": "FRA",
+      "numeric": "250",
+      "ioc": "FRA",
+      "phone": "+33"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      46,
+      2
+    ],
+    "landlocked": false,
+    "area": 551695,
+    "flag": "\ud83c\uddeb\ud83c\uddf7",
+    "domain": ".fr"
+  },
+  {
+    "name": {
+      "common": "Faroe Islands",
+      "official": "Faroe Islands",
+      "native": "F\u00e6r\u00f8erne"
+    },
+    "code": {
+      "alpha2": "FO",
+      "alpha3": "FRO",
+      "numeric": "234",
+      "ioc": "",
+      "phone": "+298"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "capital": "T\u00f3rshavn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Danish",
+      "Faroese"
+    ],
+    "geolocation": [
+      62,
+      -7
+    ],
+    "landlocked": false,
+    "area": 1393,
+    "flag": "\ud83c\uddeb\ud83c\uddf4",
+    "domain": ".fo"
+  },
+  {
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia",
+      "native": "Micronesia"
+    },
+    "code": {
+      "alpha2": "FM",
+      "alpha3": "FSM",
+      "numeric": "583",
+      "ioc": "FSM",
+      "phone": "+691"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": null,
+    "capital": "Palikir",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      6.91666666,
+      158.25
+    ],
+    "landlocked": false,
+    "area": 702,
+    "flag": "\ud83c\uddeb\ud83c\uddf2",
+    "domain": ".fm"
+  },
+  {
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic",
+      "native": "Gabon"
+    },
+    "code": {
+      "alpha2": "GA",
+      "alpha3": "GAB",
+      "numeric": "266",
+      "ioc": "GAB",
+      "phone": "+241"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -1,
+      11.75
+    ],
+    "landlocked": false,
+    "area": 267668,
+    "flag": "\ud83c\uddec\ud83c\udde6",
+    "domain": ".ga"
+  },
+  {
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "native": "United Kingdom"
+    },
+    "code": {
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "numeric": "826",
+      "ioc": "GBR",
+      "phone": "+44"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      54,
+      -2
+    ],
+    "landlocked": false,
+    "area": 242900,
+    "flag": "\ud83c\uddec\ud83c\udde7",
+    "domain": ".uk"
+  },
+  {
+    "name": {
+      "common": "Georgia",
+      "official": "Georgia",
+      "native": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+    },
+    "code": {
+      "alpha2": "GE",
+      "alpha3": "GEO",
+      "numeric": "268",
+      "ioc": "GEO",
+      "phone": "+995"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GEL",
+      "name": "lari",
+      "symbol": "\u20be"
+    },
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Georgian"
+    ],
+    "geolocation": [
+      42,
+      43.5
+    ],
+    "landlocked": false,
+    "area": 69700,
+    "flag": "\ud83c\uddec\ud83c\uddea",
+    "domain": ".ge"
+  },
+  {
+    "name": {
+      "common": "Guernsey",
+      "official": "Bailiwick of Guernsey",
+      "native": "Guernsey"
+    },
+    "code": {
+      "alpha2": "GG",
+      "alpha3": "GGY",
+      "numeric": "831",
+      "ioc": "",
+      "phone": "+44"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "French",
+      "Guern\u00e9siais"
+    ],
+    "geolocation": [
+      49.46666666,
+      -2.58333333
+    ],
+    "landlocked": false,
+    "area": 78,
+    "flag": "\ud83c\uddec\ud83c\uddec",
+    "domain": ".gg"
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana",
+      "native": "Ghana"
+    },
+    "code": {
+      "alpha2": "GH",
+      "alpha3": "GHA",
+      "numeric": "288",
+      "ioc": "GHA",
+      "phone": "+233"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GHS",
+      "name": "Ghanaian cedi",
+      "symbol": "\u20b5"
+    },
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      8,
+      -2
+    ],
+    "landlocked": false,
+    "area": 238533,
+    "flag": "\ud83c\uddec\ud83c\udded",
+    "domain": ".gh"
+  },
+  {
+    "name": {
+      "common": "Gibraltar",
+      "official": "Gibraltar",
+      "native": "Gibraltar"
+    },
+    "code": {
+      "alpha2": "GI",
+      "alpha3": "GIB",
+      "numeric": "292",
+      "ioc": "",
+      "phone": "+350"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "GIP",
+      "name": "Gibraltar pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      36.13333333,
+      -5.35
+    ],
+    "landlocked": false,
+    "area": 6,
+    "flag": "\ud83c\uddec\ud83c\uddee",
+    "domain": ".gi"
+  },
+  {
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea",
+      "native": "Guin\u00e9e"
+    },
+    "code": {
+      "alpha2": "GN",
+      "alpha3": "GIN",
+      "numeric": "324",
+      "ioc": "GUI",
+      "phone": "+224"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GNF",
+      "name": "Guinean franc",
+      "symbol": "Fr"
+    },
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      11,
+      -10
+    ],
+    "landlocked": false,
+    "area": 245857,
+    "flag": "\ud83c\uddec\ud83c\uddf3",
+    "domain": ".gn"
+  },
+  {
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe",
+      "native": "Guadeloupe"
+    },
+    "code": {
+      "alpha2": "GP",
+      "alpha3": "GLP",
+      "numeric": "312",
+      "ioc": "",
+      "phone": "+590"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      16.25,
+      -61.583333
+    ],
+    "landlocked": false,
+    "area": 1628,
+    "flag": "\ud83c\uddec\ud83c\uddf5",
+    "domain": ".gp"
+  },
+  {
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia",
+      "native": "Gambia"
+    },
+    "code": {
+      "alpha2": "GM",
+      "alpha3": "GMB",
+      "numeric": "270",
+      "ioc": "GAM",
+      "phone": "+220"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GMD",
+      "name": "dalasi",
+      "symbol": "D"
+    },
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      13.46666666,
+      -16.56666666
+    ],
+    "landlocked": false,
+    "area": 10689,
+    "flag": "\ud83c\uddec\ud83c\uddf2",
+    "domain": ".gm"
+  },
+  {
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau",
+      "native": "Guin\u00e9-Bissau"
+    },
+    "code": {
+      "alpha2": "GW",
+      "alpha3": "GNB",
+      "numeric": "624",
+      "ioc": "GBS",
+      "phone": "+245"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "Portuguese",
+      "Upper Guinea Creole"
+    ],
+    "geolocation": [
+      12,
+      -15
+    ],
+    "landlocked": false,
+    "area": 36125,
+    "flag": "\ud83c\uddec\ud83c\uddfc",
+    "domain": ".gw"
+  },
+  {
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea",
+      "native": "Guin\u00e9e \u00e9quatoriale"
+    },
+    "code": {
+      "alpha2": "GQ",
+      "alpha3": "GNQ",
+      "numeric": "226",
+      "ioc": "GEQ",
+      "phone": "+240"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "geolocation": [
+      2,
+      10
+    ],
+    "landlocked": false,
+    "area": 28051,
+    "flag": "\ud83c\uddec\ud83c\uddf6",
+    "domain": ".gq"
+  },
+  {
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic",
+      "native": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+    },
+    "code": {
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "numeric": "300",
+      "ioc": "GRE",
+      "phone": "+30"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Athens",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Greek"
+    ],
+    "geolocation": [
+      39,
+      22
+    ],
+    "landlocked": false,
+    "area": 131990,
+    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "domain": ".gr"
+  },
+  {
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada",
+      "native": "Grenada"
+    },
+    "code": {
+      "alpha2": "GD",
+      "alpha3": "GRD",
+      "numeric": "308",
+      "ioc": "GRN",
+      "phone": "+1473"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "St. George's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      12.11666666,
+      -61.66666666
+    ],
+    "landlocked": false,
+    "area": 344,
+    "flag": "\ud83c\uddec\ud83c\udde9",
+    "domain": ".gd"
+  },
+  {
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland",
+      "native": "Kalaallit Nunaat"
+    },
+    "code": {
+      "alpha2": "GL",
+      "alpha3": "GRL",
+      "numeric": "304",
+      "ioc": "",
+      "phone": "+299"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "DKK",
+      "name": "krone",
+      "symbol": "kr."
+    },
+    "capital": "Nuuk",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "Greenlandic"
+    ],
+    "geolocation": [
+      72,
+      -40
+    ],
+    "landlocked": false,
+    "area": 2166086,
+    "flag": "\ud83c\uddec\ud83c\uddf1",
+    "domain": ".gl"
+  },
+  {
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala",
+      "native": "Guatemala"
+    },
+    "code": {
+      "alpha2": "GT",
+      "alpha3": "GTM",
+      "numeric": "320",
+      "ioc": "GUA",
+      "phone": "+502"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GTQ",
+      "name": "Guatemalan quetzal",
+      "symbol": "Q"
+    },
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      15.5,
+      -90.25
+    ],
+    "landlocked": false,
+    "area": 108889,
+    "flag": "\ud83c\uddec\ud83c\uddf9",
+    "domain": ".gt"
+  },
+  {
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana",
+      "native": "Guyane fran\u00e7aise"
+    },
+    "code": {
+      "alpha2": "GF",
+      "alpha3": "GUF",
+      "numeric": "254",
+      "ioc": "",
+      "phone": "+594"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Cayenne",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      4,
+      -53
+    ],
+    "landlocked": false,
+    "area": 83534,
+    "flag": "\ud83c\uddec\ud83c\uddeb",
+    "domain": ".gf"
+  },
+  {
+    "name": {
+      "common": "Guam",
+      "official": "Guam",
+      "native": "Gu\u00e5h\u00e5n"
+    },
+    "code": {
+      "alpha2": "GU",
+      "alpha3": "GUM",
+      "numeric": "316",
+      "ioc": "GUM",
+      "phone": "+1671"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Hag\u00e5t\u00f1a",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "Chamorro",
+      "English",
+      "Spanish"
+    ],
+    "geolocation": [
+      13.46666666,
+      144.78333333
+    ],
+    "landlocked": false,
+    "area": 549,
+    "flag": "\ud83c\uddec\ud83c\uddfa",
+    "domain": ".gu"
+  },
+  {
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana",
+      "native": "Guyana"
+    },
+    "code": {
+      "alpha2": "GY",
+      "alpha3": "GUY",
+      "numeric": "328",
+      "ioc": "GUY",
+      "phone": "+592"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "GYD",
+      "name": "Guyanese dollar",
+      "symbol": "$"
+    },
+    "capital": "Georgetown",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      5,
+      -59
+    ],
+    "landlocked": false,
+    "area": 214969,
+    "flag": "\ud83c\uddec\ud83c\uddfe",
+    "domain": ".gy"
+  },
+  {
+    "name": {
+      "common": "Hong Kong",
+      "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+      "native": "Hong Kong"
+    },
+    "code": {
+      "alpha2": "HK",
+      "alpha3": "HKG",
+      "numeric": "344",
+      "ioc": "HKG",
+      "phone": "+852"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "HKD",
+      "name": "Hong Kong dollar",
+      "symbol": "$"
+    },
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "geolocation": [
+      22.267,
+      114.188
+    ],
+    "landlocked": false,
+    "area": 1104,
+    "flag": "\ud83c\udded\ud83c\uddf0",
+    "domain": ".hk"
+  },
+  {
+    "name": {
+      "common": "Heard Island and McDonald Islands",
+      "official": "Heard Island and McDonald Islands",
+      "native": "Heard Island and McDonald Islands"
+    },
+    "code": {
+      "alpha2": "HM",
+      "alpha3": "HMD",
+      "numeric": "334",
+      "ioc": "",
+      "phone": ""
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": null,
+    "capital": "",
+    "region": "Antarctic",
+    "subregion": "",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -53.1,
+      72.51666666
+    ],
+    "landlocked": false,
+    "area": 412,
+    "flag": "\ud83c\udded\ud83c\uddf2",
+    "domain": ".hm"
+  },
+  {
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras",
+      "native": "Honduras"
+    },
+    "code": {
+      "alpha2": "HN",
+      "alpha3": "HND",
+      "numeric": "340",
+      "ioc": "HON",
+      "phone": "+504"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "HNL",
+      "name": "Honduran lempira",
+      "symbol": "L"
+    },
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      15,
+      -86.5
+    ],
+    "landlocked": false,
+    "area": 112492,
+    "flag": "\ud83c\udded\ud83c\uddf3",
+    "domain": ".hn"
+  },
+  {
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia",
+      "native": "Hrvatska"
+    },
+    "code": {
+      "alpha2": "HR",
+      "alpha3": "HRV",
+      "numeric": "191",
+      "ioc": "CRO",
+      "phone": "+385"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Zagreb",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Croatian"
+    ],
+    "geolocation": [
+      45.16666666,
+      15.5
+    ],
+    "landlocked": false,
+    "area": 56594,
+    "flag": "\ud83c\udded\ud83c\uddf7",
+    "domain": ".hr"
+  },
+  {
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti",
+      "native": "Ha\u00efti"
+    },
+    "code": {
+      "alpha2": "HT",
+      "alpha3": "HTI",
+      "numeric": "332",
+      "ioc": "HAI",
+      "phone": "+509"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "HTG",
+      "name": "Haitian gourde",
+      "symbol": "G"
+    },
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French",
+      "Haitian Creole"
+    ],
+    "geolocation": [
+      19,
+      -72.41666666
+    ],
+    "landlocked": false,
+    "area": 27750,
+    "flag": "\ud83c\udded\ud83c\uddf9",
+    "domain": ".ht"
+  },
+  {
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary",
+      "native": "Magyarorsz\u00e1g"
+    },
+    "code": {
+      "alpha2": "HU",
+      "alpha3": "HUN",
+      "numeric": "348",
+      "ioc": "HUN",
+      "phone": "+36"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "HUF",
+      "name": "Hungarian forint",
+      "symbol": "Ft"
+    },
+    "capital": "Budapest",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": [
+      "Hungarian"
+    ],
+    "geolocation": [
+      47,
+      20
+    ],
+    "landlocked": true,
+    "area": 93028,
+    "flag": "\ud83c\udded\ud83c\uddfa",
+    "domain": ".hu"
+  },
+  {
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia",
+      "native": "Indonesia"
+    },
+    "code": {
+      "alpha2": "ID",
+      "alpha3": "IDN",
+      "numeric": "360",
+      "ioc": "INA",
+      "phone": "+62"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "IDR",
+      "name": "Indonesian rupiah",
+      "symbol": "Rp"
+    },
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Indonesian"
+    ],
+    "geolocation": [
+      -5,
+      120
+    ],
+    "landlocked": false,
+    "area": 1904569,
+    "flag": "\ud83c\uddee\ud83c\udde9",
+    "domain": ".id"
+  },
+  {
+    "name": {
+      "common": "Isle of Man",
+      "official": "Isle of Man",
+      "native": "Isle of Man"
+    },
+    "code": {
+      "alpha2": "IM",
+      "alpha3": "IMN",
+      "numeric": "833",
+      "ioc": "",
+      "phone": "+44"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Douglas",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "Manx"
+    ],
+    "geolocation": [
+      54.25,
+      -4.5
+    ],
+    "landlocked": false,
+    "area": 572,
+    "flag": "\ud83c\uddee\ud83c\uddf2",
+    "domain": ".im"
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "native": "India"
+    },
+    "code": {
+      "alpha2": "IN",
+      "alpha3": "IND",
+      "numeric": "356",
+      "ioc": "IND",
+      "phone": "+91"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "\u20b9"
+    },
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "geolocation": [
+      20,
+      77
+    ],
+    "landlocked": false,
+    "area": 3287590,
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "domain": ".in"
+  },
+  {
+    "name": {
+      "common": "British Indian Ocean Territory",
+      "official": "British Indian Ocean Territory",
+      "native": "British Indian Ocean Territory"
+    },
+    "code": {
+      "alpha2": "IO",
+      "alpha3": "IOT",
+      "numeric": "086",
+      "ioc": "",
+      "phone": "+246"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -6,
+      71.5
+    ],
+    "landlocked": false,
+    "area": 60,
+    "flag": "\ud83c\uddee\ud83c\uddf4",
+    "domain": ".io"
+  },
+  {
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland",
+      "native": "Ireland"
+    },
+    "code": {
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "numeric": "372",
+      "ioc": "IRL",
+      "phone": "+353"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Dublin",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "Irish"
+    ],
+    "geolocation": [
+      53,
+      -8
+    ],
+    "landlocked": false,
+    "area": 70273,
+    "flag": "\ud83c\uddee\ud83c\uddea",
+    "domain": ".ie"
+  },
+  {
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran",
+      "native": "\u0627\u06cc\u0631\u0627\u0646"
+    },
+    "code": {
+      "alpha2": "IR",
+      "alpha3": "IRN",
+      "numeric": "364",
+      "ioc": "IRI",
+      "phone": "+98"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "IRR",
+      "name": "Iranian rial",
+      "symbol": "\ufdfc"
+    },
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Persian (Farsi)"
+    ],
+    "geolocation": [
+      32,
+      53
+    ],
+    "landlocked": false,
+    "area": 1648195,
+    "flag": "\ud83c\uddee\ud83c\uddf7",
+    "domain": ".ir"
+  },
+  {
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq",
+      "native": "\u0627\u0644\u0639\u0631\u0627\u0642"
+    },
+    "code": {
+      "alpha2": "IQ",
+      "alpha3": "IRQ",
+      "numeric": "368",
+      "ioc": "IRQ",
+      "phone": "+964"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "IQD",
+      "name": "Iraqi dinar",
+      "symbol": "\u0639.\u062f"
+    },
+    "capital": "Baghdad",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic",
+      "Aramaic",
+      "Sorani"
+    ],
+    "geolocation": [
+      33,
+      44
+    ],
+    "landlocked": false,
+    "area": 438317,
+    "flag": "\ud83c\uddee\ud83c\uddf6",
+    "domain": ".iq"
+  },
+  {
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland",
+      "native": "\u00cdsland"
+    },
+    "code": {
+      "alpha2": "IS",
+      "alpha3": "ISL",
+      "numeric": "352",
+      "ioc": "ISL",
+      "phone": "+354"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ISK",
+      "name": "Icelandic kr\u00f3na",
+      "symbol": "kr"
+    },
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Icelandic"
+    ],
+    "geolocation": [
+      65,
+      -18
+    ],
+    "landlocked": false,
+    "area": 103000,
+    "flag": "\ud83c\uddee\ud83c\uddf8",
+    "domain": ".is"
+  },
+  {
+    "name": {
+      "common": "Israel (State of Palestine)",
+      "official": "State of Palestine",
+      "native": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644"
+    },
+    "code": {
+      "alpha2": "IL",
+      "alpha3": "ISR",
+      "numeric": "376",
+      "ioc": "ISR",
+      "phone": "+972"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ILS",
+      "name": "Israeli new shekel",
+      "symbol": "\u20aa"
+    },
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "geolocation": [
+      31.47,
+      35.13
+    ],
+    "landlocked": false,
+    "area": 20770,
+    "flag": "\ud83c\uddee\ud83c\uddf1",
+    "domain": ".il"
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "native": "Italia"
+    },
+    "code": {
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "numeric": "380",
+      "ioc": "ITA",
+      "phone": "+39"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Italian"
+    ],
+    "geolocation": [
+      42.83333333,
+      12.83333333
+    ],
+    "landlocked": false,
+    "area": 301336,
+    "flag": "\ud83c\uddee\ud83c\uddf9",
+    "domain": ".it"
+  },
+  {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica",
+      "native": "Jamaica"
+    },
+    "code": {
+      "alpha2": "JM",
+      "alpha3": "JAM",
+      "numeric": "388",
+      "ioc": "JAM",
+      "phone": "+1876"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "JMD",
+      "name": "Jamaican dollar",
+      "symbol": "$"
+    },
+    "capital": "Kingston",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Jamaican Patois"
+    ],
+    "geolocation": [
+      18.25,
+      -77.5
+    ],
+    "landlocked": false,
+    "area": 10991,
+    "flag": "\ud83c\uddef\ud83c\uddf2",
+    "domain": ".jm"
+  },
+  {
+    "name": {
+      "common": "Jersey",
+      "official": "Bailiwick of Jersey",
+      "native": "Jersey"
+    },
+    "code": {
+      "alpha2": "JE",
+      "alpha3": "JEY",
+      "numeric": "832",
+      "ioc": "",
+      "phone": "+44"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "French",
+      "J\u00e8rriais"
+    ],
+    "geolocation": [
+      49.25,
+      -2.16666666
+    ],
+    "landlocked": false,
+    "area": 116,
+    "flag": "\ud83c\uddef\ud83c\uddea",
+    "domain": ".je"
+  },
+  {
+    "name": {
+      "common": "Jordan",
+      "official": "Hashemite Kingdom of Jordan",
+      "native": "\u0627\u0644\u0623\u0631\u062f\u0646"
+    },
+    "code": {
+      "alpha2": "JO",
+      "alpha3": "JOR",
+      "numeric": "400",
+      "ioc": "JOR",
+      "phone": "+962"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "JOD",
+      "name": "Jordanian dinar",
+      "symbol": "\u062f.\u0627"
+    },
+    "capital": "Amman",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      31,
+      36
+    ],
+    "landlocked": false,
+    "area": 89342,
+    "flag": "\ud83c\uddef\ud83c\uddf4",
+    "domain": ".jo"
+  },
+  {
+    "name": {
+      "common": "Japan",
+      "official": "Japan",
+      "native": "\u65e5\u672c"
+    },
+    "code": {
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "numeric": "392",
+      "ioc": "JPN",
+      "phone": "+81"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "\u00a5"
+    },
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Japanese"
+    ],
+    "geolocation": [
+      36,
+      138
+    ],
+    "landlocked": false,
+    "area": 377930,
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "domain": ".jp"
+  },
+  {
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan",
+      "native": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d"
+    },
+    "code": {
+      "alpha2": "KZ",
+      "alpha3": "KAZ",
+      "numeric": "398",
+      "ioc": "KAZ",
+      "phone": "+76"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KZT",
+      "name": "Kazakhstani tenge",
+      "symbol": "\u20b8"
+    },
+    "capital": "Nur-Sultan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "geolocation": [
+      48,
+      68
+    ],
+    "landlocked": true,
+    "area": 2724900,
+    "flag": "\ud83c\uddf0\ud83c\uddff",
+    "domain": ".kz"
+  },
+  {
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya",
+      "native": "Kenya"
+    },
+    "code": {
+      "alpha2": "KE",
+      "alpha3": "KEN",
+      "numeric": "404",
+      "ioc": "KEN",
+      "phone": "+254"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "symbol": "Sh"
+    },
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "geolocation": [
+      1,
+      38
+    ],
+    "landlocked": false,
+    "area": 580367,
+    "flag": "\ud83c\uddf0\ud83c\uddea",
+    "domain": ".ke"
+  },
+  {
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic",
+      "native": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    },
+    "code": {
+      "alpha2": "KG",
+      "alpha3": "KGZ",
+      "numeric": "417",
+      "ioc": "KGZ",
+      "phone": "+996"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KGS",
+      "name": "Kyrgyzstani som",
+      "symbol": "\u0441"
+    },
+    "capital": "Bishkek",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "geolocation": [
+      41,
+      75
+    ],
+    "landlocked": true,
+    "area": 199951,
+    "flag": "\ud83c\uddf0\ud83c\uddec",
+    "domain": ".kg"
+  },
+  {
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia",
+      "native": "K\u00e2mp\u016dch\u00e9a"
+    },
+    "code": {
+      "alpha2": "KH",
+      "alpha3": "KHM",
+      "numeric": "116",
+      "ioc": "CAM",
+      "phone": "+855"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KHR",
+      "name": "Cambodian riel",
+      "symbol": "\u17db"
+    },
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Khmer"
+    ],
+    "geolocation": [
+      13,
+      105
+    ],
+    "landlocked": false,
+    "area": 181035,
+    "flag": "\ud83c\uddf0\ud83c\udded",
+    "domain": ".kh"
+  },
+  {
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati",
+      "native": "Kiribati"
+    },
+    "code": {
+      "alpha2": "KI",
+      "alpha3": "KIR",
+      "numeric": "296",
+      "ioc": "KIR",
+      "phone": "+686"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Gilbertese"
+    ],
+    "geolocation": [
+      1.41666666,
+      173
+    ],
+    "landlocked": false,
+    "area": 811,
+    "flag": "\ud83c\uddf0\ud83c\uddee",
+    "domain": ".ki"
+  },
+  {
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis",
+      "native": "Saint Kitts and Nevis"
+    },
+    "code": {
+      "alpha2": "KN",
+      "alpha3": "KNA",
+      "numeric": "659",
+      "ioc": "SKN",
+      "phone": "+1869"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "Basseterre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      17.33333333,
+      -62.75
+    ],
+    "landlocked": false,
+    "area": 261,
+    "flag": "\ud83c\uddf0\ud83c\uddf3",
+    "domain": ".kn"
+  },
+  {
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea",
+      "native": "\ud55c\uad6d"
+    },
+    "code": {
+      "alpha2": "KR",
+      "alpha3": "KOR",
+      "numeric": "410",
+      "ioc": "KOR",
+      "phone": "+82"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KRW",
+      "name": "South Korean won",
+      "symbol": "\u20a9"
+    },
+    "capital": "Seoul",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Korean"
+    ],
+    "geolocation": [
+      37,
+      127.5
+    ],
+    "landlocked": false,
+    "area": 100210,
+    "flag": "\ud83c\uddf0\ud83c\uddf7",
+    "domain": ".kr"
+  },
+  {
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo",
+      "native": "Kosova"
+    },
+    "code": {
+      "alpha2": "XK",
+      "alpha3": "UNK",
+      "numeric": "",
+      "ioc": "KOS",
+      "phone": "+383"
+    },
+    "status": "user-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Pristina",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Albanian",
+      "Serbian"
+    ],
+    "geolocation": [
+      42.666667,
+      21.166667
+    ],
+    "landlocked": true,
+    "area": 10908,
+    "flag": "\ud83c\uddfd\ud83c\uddf0",
+    "domain": ".xk"
+  },
+  {
+    "name": {
+      "common": "Kuwait",
+      "official": "State of Kuwait",
+      "native": "\u0627\u0644\u0643\u0648\u064a\u062a"
+    },
+    "code": {
+      "alpha2": "KW",
+      "alpha3": "KWT",
+      "numeric": "414",
+      "ioc": "KUW",
+      "phone": "+965"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KWD",
+      "name": "Kuwaiti dinar",
+      "symbol": "\u062f.\u0643"
+    },
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      29.5,
+      45.75
+    ],
+    "landlocked": false,
+    "area": 17818,
+    "flag": "\ud83c\uddf0\ud83c\uddfc",
+    "domain": ".kw"
+  },
+  {
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic",
+      "native": "\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7"
+    },
+    "code": {
+      "alpha2": "LA",
+      "alpha3": "LAO",
+      "numeric": "418",
+      "ioc": "LAO",
+      "phone": "+856"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "LAK",
+      "name": "Lao kip",
+      "symbol": "\u20ad"
+    },
+    "capital": "Vientiane",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Lao"
+    ],
+    "geolocation": [
+      18,
+      105
+    ],
+    "landlocked": true,
+    "area": 236800,
+    "flag": "\ud83c\uddf1\ud83c\udde6",
+    "domain": ".la"
+  },
+  {
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic",
+      "native": "\u0644\u0628\u0646\u0627\u0646"
+    },
+    "code": {
+      "alpha2": "LB",
+      "alpha3": "LBN",
+      "numeric": "422",
+      "ioc": "LBN",
+      "phone": "+961"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "LBP",
+      "name": "Lebanese pound",
+      "symbol": "\u0644.\u0644"
+    },
+    "capital": "Beirut",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "geolocation": [
+      33.83333333,
+      35.83333333
+    ],
+    "landlocked": false,
+    "area": 10452,
+    "flag": "\ud83c\uddf1\ud83c\udde7",
+    "domain": ".lb"
+  },
+  {
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia",
+      "native": "Liberia"
+    },
+    "code": {
+      "alpha2": "LR",
+      "alpha3": "LBR",
+      "numeric": "430",
+      "ioc": "LBR",
+      "phone": "+231"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "LRD",
+      "name": "Liberian dollar",
+      "symbol": "$"
+    },
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      6.5,
+      -9.5
+    ],
+    "landlocked": false,
+    "area": 111369,
+    "flag": "\ud83c\uddf1\ud83c\uddf7",
+    "domain": ".lr"
+  },
+  {
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya",
+      "native": "\u200f\u0644\u064a\u0628\u064a\u0627"
+    },
+    "code": {
+      "alpha2": "LY",
+      "alpha3": "LBY",
+      "numeric": "434",
+      "ioc": "LBA",
+      "phone": "+218"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "LYD",
+      "name": "Libyan dinar",
+      "symbol": "\u0644.\u062f"
+    },
+    "capital": "Tripoli",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      25,
+      17
+    ],
+    "landlocked": false,
+    "area": 1759540,
+    "flag": "\ud83c\uddf1\ud83c\uddfe",
+    "domain": ".ly"
+  },
+  {
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia",
+      "native": "Saint Lucia"
+    },
+    "code": {
+      "alpha2": "LC",
+      "alpha3": "LCA",
+      "numeric": "662",
+      "ioc": "LCA",
+      "phone": "+1758"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "Castries",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      13.88333333,
+      -60.96666666
+    ],
+    "landlocked": false,
+    "area": 616,
+    "flag": "\ud83c\uddf1\ud83c\udde8",
+    "domain": ".lc"
+  },
+  {
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein",
+      "native": "Liechtenstein"
+    },
+    "code": {
+      "alpha2": "LI",
+      "alpha3": "LIE",
+      "numeric": "438",
+      "ioc": "LIE",
+      "phone": "+423"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr"
+    },
+    "capital": "Vaduz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German"
+    ],
+    "geolocation": [
+      47.26666666,
+      9.53333333
+    ],
+    "landlocked": true,
+    "area": 160,
+    "flag": "\ud83c\uddf1\ud83c\uddee",
+    "domain": ".li"
+  },
+  {
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka",
+      "native": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0"
+    },
+    "code": {
+      "alpha2": "LK",
+      "alpha3": "LKA",
+      "numeric": "144",
+      "ioc": "SRI",
+      "phone": "+94"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "LKR",
+      "name": "Sri Lankan rupee",
+      "symbol": "Rs  \u0dbb\u0dd4"
+    },
+    "capital": "Colombo",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "geolocation": [
+      7,
+      81
+    ],
+    "landlocked": false,
+    "area": 65610,
+    "flag": "\ud83c\uddf1\ud83c\uddf0",
+    "domain": ".lk"
+  },
+  {
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho",
+      "native": "Lesotho"
+    },
+    "code": {
+      "alpha2": "LS",
+      "alpha3": "LSO",
+      "numeric": "426",
+      "ioc": "LES",
+      "phone": "+266"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "LSL",
+      "name": "Lesotho loti",
+      "symbol": "L"
+    },
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "English",
+      "Sotho"
+    ],
+    "geolocation": [
+      -29.5,
+      28.5
+    ],
+    "landlocked": true,
+    "area": 30355,
+    "flag": "\ud83c\uddf1\ud83c\uddf8",
+    "domain": ".ls"
+  },
+  {
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania",
+      "native": "Lietuva"
+    },
+    "code": {
+      "alpha2": "LT",
+      "alpha3": "LTU",
+      "numeric": "440",
+      "ioc": "LTU",
+      "phone": "+370"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Vilnius",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Lithuanian"
+    ],
+    "geolocation": [
+      56,
+      24
+    ],
+    "landlocked": false,
+    "area": 65300,
+    "flag": "\ud83c\uddf1\ud83c\uddf9",
+    "domain": ".lt"
+  },
+  {
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg",
+      "native": "Luxemburg"
+    },
+    "code": {
+      "alpha2": "LU",
+      "alpha3": "LUX",
+      "numeric": "442",
+      "ioc": "LUX",
+      "phone": "+352"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German",
+      "French",
+      "Luxembourgish"
+    ],
+    "geolocation": [
+      49.75,
+      6.16666666
+    ],
+    "landlocked": true,
+    "area": 2586,
+    "flag": "\ud83c\uddf1\ud83c\uddfa",
+    "domain": ".lu"
+  },
+  {
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia",
+      "native": "Latvija"
+    },
+    "code": {
+      "alpha2": "LV",
+      "alpha3": "LVA",
+      "numeric": "428",
+      "ioc": "LAT",
+      "phone": "+371"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Riga",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Latvian"
+    ],
+    "geolocation": [
+      57,
+      25
+    ],
+    "landlocked": false,
+    "area": 64559,
+    "flag": "\ud83c\uddf1\ud83c\uddfb",
+    "domain": ".lv"
+  },
+  {
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China",
+      "native": "Macau"
+    },
+    "code": {
+      "alpha2": "MO",
+      "alpha3": "MAC",
+      "numeric": "446",
+      "ioc": "",
+      "phone": "+853"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "MOP",
+      "name": "Macanese pataca",
+      "symbol": "P"
+    },
+    "capital": "",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Portuguese",
+      "Chinese"
+    ],
+    "geolocation": [
+      22.16666666,
+      113.55
+    ],
+    "landlocked": false,
+    "area": 30,
+    "flag": "\ud83c\uddf2\ud83c\uddf4",
+    "domain": ".mo"
+  },
+  {
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Martin",
+      "native": "Saint-Martin"
+    },
+    "code": {
+      "alpha2": "MF",
+      "alpha3": "MAF",
+      "numeric": "663",
+      "ioc": "",
+      "phone": "+590"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Marigot",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      18.08333333,
+      -63.95
+    ],
+    "landlocked": false,
+    "area": 53,
+    "flag": "\ud83c\uddf2\ud83c\uddeb",
+    "domain": ".fr"
+  },
+  {
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco",
+      "native": "\u0627\u0644\u0645\u063a\u0631\u0628"
+    },
+    "code": {
+      "alpha2": "MA",
+      "alpha3": "MAR",
+      "numeric": "504",
+      "ioc": "MAR",
+      "phone": "+212"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "\u062f.\u0645."
+    },
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "geolocation": [
+      32,
+      -5
+    ],
+    "landlocked": false,
+    "area": 446550,
+    "flag": "\ud83c\uddf2\ud83c\udde6",
+    "domain": ".ma"
+  },
+  {
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco",
+      "native": "Monaco"
+    },
+    "code": {
+      "alpha2": "MC",
+      "alpha3": "MCO",
+      "numeric": "492",
+      "ioc": "MON",
+      "phone": "+377"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      43.73333333,
+      7.4
+    ],
+    "landlocked": false,
+    "area": 2.02,
+    "flag": "\ud83c\uddf2\ud83c\udde8",
+    "domain": ".mc"
+  },
+  {
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova",
+      "native": "Moldova"
+    },
+    "code": {
+      "alpha2": "MD",
+      "alpha3": "MDA",
+      "numeric": "498",
+      "ioc": "MDA",
+      "phone": "+373"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MDL",
+      "name": "Moldovan leu",
+      "symbol": "L"
+    },
+    "capital": "Chi\u0219in\u0103u",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Moldavian"
+    ],
+    "geolocation": [
+      47,
+      29
+    ],
+    "landlocked": true,
+    "area": 33846,
+    "flag": "\ud83c\uddf2\ud83c\udde9",
+    "domain": ".md"
+  },
+  {
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar",
+      "native": "Madagascar"
+    },
+    "code": {
+      "alpha2": "MG",
+      "alpha3": "MDG",
+      "numeric": "450",
+      "ioc": "MAD",
+      "phone": "+261"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MGA",
+      "name": "Malagasy ariary",
+      "symbol": "Ar"
+    },
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French",
+      "Malagasy"
+    ],
+    "geolocation": [
+      -20,
+      47
+    ],
+    "landlocked": false,
+    "area": 587041,
+    "flag": "\ud83c\uddf2\ud83c\uddec",
+    "domain": ".mg"
+  },
+  {
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of the Maldives",
+      "native": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac"
+    },
+    "code": {
+      "alpha2": "MV",
+      "alpha3": "MDV",
+      "numeric": "462",
+      "ioc": "MDV",
+      "phone": "+960"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MVR",
+      "name": "Maldivian rufiyaa",
+      "symbol": ".\u0783"
+    },
+    "capital": "Mal\u00e9",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Maldivian"
+    ],
+    "geolocation": [
+      3.25,
+      73
+    ],
+    "landlocked": false,
+    "area": 300,
+    "flag": "\ud83c\uddf2\ud83c\uddfb",
+    "domain": ".mv"
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "native": "M\u00e9xico"
+    },
+    "code": {
+      "alpha2": "MX",
+      "alpha3": "MEX",
+      "numeric": "484",
+      "ioc": "MEX",
+      "phone": "+52"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MXN",
+      "name": "Mexican peso",
+      "symbol": "$"
+    },
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      23,
+      -102
+    ],
+    "landlocked": false,
+    "area": 1964375,
+    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "domain": ".mx"
+  },
+  {
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands",
+      "native": "Marshall Islands"
+    },
+    "code": {
+      "alpha2": "MH",
+      "alpha3": "MHL",
+      "numeric": "584",
+      "ioc": "MHL",
+      "phone": "+692"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Majuro",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Marshallese"
+    ],
+    "geolocation": [
+      9,
+      168
+    ],
+    "landlocked": false,
+    "area": 181,
+    "flag": "\ud83c\uddf2\ud83c\udded",
+    "domain": ".mh"
+  },
+  {
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia",
+      "native": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    },
+    "code": {
+      "alpha2": "MK",
+      "alpha3": "MKD",
+      "numeric": "807",
+      "ioc": "MKD",
+      "phone": "+389"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MKD",
+      "name": "denar",
+      "symbol": "den"
+    },
+    "capital": "Skopje",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Macedonian"
+    ],
+    "geolocation": [
+      41.83333333,
+      22
+    ],
+    "landlocked": true,
+    "area": 25713,
+    "flag": "\ud83c\uddf2\ud83c\uddf0",
+    "domain": ".mk"
+  },
+  {
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali",
+      "native": "Mali"
+    },
+    "code": {
+      "alpha2": "ML",
+      "alpha3": "MLI",
+      "numeric": "466",
+      "ioc": "MLI",
+      "phone": "+223"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      17,
+      -4
+    ],
+    "landlocked": true,
+    "area": 1240192,
+    "flag": "\ud83c\uddf2\ud83c\uddf1",
+    "domain": ".ml"
+  },
+  {
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta",
+      "native": "Malta"
+    },
+    "code": {
+      "alpha2": "MT",
+      "alpha3": "MLT",
+      "numeric": "470",
+      "ioc": "MLT",
+      "phone": "+356"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Valletta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "English",
+      "Maltese"
+    ],
+    "geolocation": [
+      35.83333333,
+      14.58333333
+    ],
+    "landlocked": false,
+    "area": 316,
+    "flag": "\ud83c\uddf2\ud83c\uddf9",
+    "domain": ".mt"
+  },
+  {
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar",
+      "native": "\u1019\u103c\u1014\u103a\u1019\u102c"
+    },
+    "code": {
+      "alpha2": "MM",
+      "alpha3": "MMR",
+      "numeric": "104",
+      "ioc": "MYA",
+      "phone": "+95"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MMK",
+      "name": "Burmese kyat",
+      "symbol": "Ks"
+    },
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Burmese"
+    ],
+    "geolocation": [
+      22,
+      98
+    ],
+    "landlocked": false,
+    "area": 676578,
+    "flag": "\ud83c\uddf2\ud83c\uddf2",
+    "domain": ".mm"
+  },
+  {
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro",
+      "native": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430"
+    },
+    "code": {
+      "alpha2": "ME",
+      "alpha3": "MNE",
+      "numeric": "499",
+      "ioc": "MNE",
+      "phone": "+382"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Podgorica",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Montenegrin"
+    ],
+    "geolocation": [
+      42.5,
+      19.3
+    ],
+    "landlocked": false,
+    "area": 13812,
+    "flag": "\ud83c\uddf2\ud83c\uddea",
+    "domain": ".me"
+  },
+  {
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia",
+      "native": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441"
+    },
+    "code": {
+      "alpha2": "MN",
+      "alpha3": "MNG",
+      "numeric": "496",
+      "ioc": "MGL",
+      "phone": "+976"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MNT",
+      "name": "Mongolian t\u00f6gr\u00f6g",
+      "symbol": "\u20ae"
+    },
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Mongolian"
+    ],
+    "geolocation": [
+      46,
+      105
+    ],
+    "landlocked": true,
+    "area": 1564110,
+    "flag": "\ud83c\uddf2\ud83c\uddf3",
+    "domain": ".mn"
+  },
+  {
+    "name": {
+      "common": "Northern Mariana Islands",
+      "official": "Commonwealth of the Northern Mariana Islands",
+      "native": "Northern Mariana Islands"
+    },
+    "code": {
+      "alpha2": "MP",
+      "alpha3": "MNP",
+      "numeric": "580",
+      "ioc": "",
+      "phone": "+1670"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Saipan",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "Carolinian",
+      "Chamorro",
+      "English"
+    ],
+    "geolocation": [
+      15.2,
+      145.75
+    ],
+    "landlocked": false,
+    "area": 464,
+    "flag": "\ud83c\uddf2\ud83c\uddf5",
+    "domain": ".mp"
+  },
+  {
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique",
+      "native": "Mo\u00e7ambique"
+    },
+    "code": {
+      "alpha2": "MZ",
+      "alpha3": "MOZ",
+      "numeric": "508",
+      "ioc": "MOZ",
+      "phone": "+258"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MZN",
+      "name": "Mozambican metical",
+      "symbol": "MT"
+    },
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "geolocation": [
+      -18.25,
+      35
+    ],
+    "landlocked": false,
+    "area": 801590,
+    "flag": "\ud83c\uddf2\ud83c\uddff",
+    "domain": ".mz"
+  },
+  {
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania",
+      "native": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
+    },
+    "code": {
+      "alpha2": "MR",
+      "alpha3": "MRT",
+      "numeric": "478",
+      "ioc": "MTN",
+      "phone": "+222"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MRU",
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    },
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      20,
+      -12
+    ],
+    "landlocked": false,
+    "area": 1030700,
+    "flag": "\ud83c\uddf2\ud83c\uddf7",
+    "domain": ".mr"
+  },
+  {
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat",
+      "native": "Montserrat"
+    },
+    "code": {
+      "alpha2": "MS",
+      "alpha3": "MSR",
+      "numeric": "500",
+      "ioc": "",
+      "phone": "+1664"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "Plymouth",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      16.75,
+      -62.2
+    ],
+    "landlocked": false,
+    "area": 102,
+    "flag": "\ud83c\uddf2\ud83c\uddf8",
+    "domain": ".ms"
+  },
+  {
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique",
+      "native": "Martinique"
+    },
+    "code": {
+      "alpha2": "MQ",
+      "alpha3": "MTQ",
+      "numeric": "474",
+      "ioc": "",
+      "phone": "+596"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      14.666667,
+      -61
+    ],
+    "landlocked": false,
+    "area": 1128,
+    "flag": "\ud83c\uddf2\ud83c\uddf6",
+    "domain": ".mq"
+  },
+  {
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius",
+      "native": "Mauritius"
+    },
+    "code": {
+      "alpha2": "MU",
+      "alpha3": "MUS",
+      "numeric": "480",
+      "ioc": "MRI",
+      "phone": "+230"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MUR",
+      "name": "Mauritian rupee",
+      "symbol": "\u20a8"
+    },
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "geolocation": [
+      -20.28333333,
+      57.55
+    ],
+    "landlocked": false,
+    "area": 2040,
+    "flag": "\ud83c\uddf2\ud83c\uddfa",
+    "domain": ".mu"
+  },
+  {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "native": "Malawi"
+    },
+    "code": {
+      "alpha2": "MW",
+      "alpha3": "MWI",
+      "numeric": "454",
+      "ioc": "MAW",
+      "phone": "+265"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MWK",
+      "name": "Malawian kwacha",
+      "symbol": "MK"
+    },
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Chewa"
+    ],
+    "geolocation": [
+      -13.5,
+      34
+    ],
+    "landlocked": true,
+    "area": 118484,
+    "flag": "\ud83c\uddf2\ud83c\uddfc",
+    "domain": ".mw"
+  },
+  {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "native": "Malaysia"
+    },
+    "code": {
+      "alpha2": "MY",
+      "alpha3": "MYS",
+      "numeric": "458",
+      "ioc": "MAS",
+      "phone": "+60"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "MYR",
+      "name": "Malaysian ringgit",
+      "symbol": "RM"
+    },
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "English",
+      "Malay"
+    ],
+    "geolocation": [
+      2.5,
+      112.5
+    ],
+    "landlocked": false,
+    "area": 330803,
+    "flag": "\ud83c\uddf2\ud83c\uddfe",
+    "domain": ".my"
+  },
+  {
+    "name": {
+      "common": "Mayotte",
+      "official": "Department of Mayotte",
+      "native": "Mayotte"
+    },
+    "code": {
+      "alpha2": "YT",
+      "alpha3": "MYT",
+      "numeric": "175",
+      "ioc": "",
+      "phone": "+262"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -12.83333333,
+      45.16666666
+    ],
+    "landlocked": false,
+    "area": 374,
+    "flag": "\ud83c\uddfe\ud83c\uddf9",
+    "domain": ".yt"
+  },
+  {
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia",
+      "native": "Namibi\u00eb"
+    },
+    "code": {
+      "alpha2": "NA",
+      "alpha3": "NAM",
+      "numeric": "516",
+      "ioc": "NAM",
+      "phone": "+264"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "NAD",
+      "name": "Namibian dollar",
+      "symbol": "$"
+    },
+    "capital": "Windhoek",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "Afrikaans",
+      "German",
+      "English",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "geolocation": [
+      -22,
+      17
+    ],
+    "landlocked": false,
+    "area": 825615,
+    "flag": "\ud83c\uddf3\ud83c\udde6",
+    "domain": ".na"
+  },
+  {
+    "name": {
+      "common": "New Caledonia",
+      "official": "New Caledonia",
+      "native": "Nouvelle-Cal\u00e9donie"
+    },
+    "code": {
+      "alpha2": "NC",
+      "alpha3": "NCL",
+      "numeric": "540",
+      "ioc": "",
+      "phone": "+687"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "\u20a3"
+    },
+    "capital": "Noum\u00e9a",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -21.5,
+      165.5
+    ],
+    "landlocked": false,
+    "area": 18575,
+    "flag": "\ud83c\uddf3\ud83c\udde8",
+    "domain": ".nc"
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "native": "Niger"
+    },
+    "code": {
+      "alpha2": "NE",
+      "alpha3": "NER",
+      "numeric": "562",
+      "ioc": "NIG",
+      "phone": "+227"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      16,
+      8
+    ],
+    "landlocked": true,
+    "area": 1267000,
+    "flag": "\ud83c\uddf3\ud83c\uddea",
+    "domain": ".ne"
+  },
+  {
+    "name": {
+      "common": "Norfolk Island",
+      "official": "Territory of Norfolk Island",
+      "native": "Norfolk Island"
+    },
+    "code": {
+      "alpha2": "NF",
+      "alpha3": "NFK",
+      "numeric": "574",
+      "ioc": "",
+      "phone": "+672"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "Kingston",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English",
+      "Norfuk"
+    ],
+    "geolocation": [
+      -29.03333333,
+      167.95
+    ],
+    "landlocked": false,
+    "area": 36,
+    "flag": "\ud83c\uddf3\ud83c\uddeb",
+    "domain": ".nf"
+  },
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "native": "Nigeria"
+    },
+    "code": {
+      "alpha2": "NG",
+      "alpha3": "NGA",
+      "numeric": "566",
+      "ioc": "NGR",
+      "phone": "+234"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "NGN",
+      "name": "Nigerian naira",
+      "symbol": "\u20a6"
+    },
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      10,
+      8
+    ],
+    "landlocked": false,
+    "area": 923768,
+    "flag": "\ud83c\uddf3\ud83c\uddec",
+    "domain": ".ng"
+  },
+  {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "native": "Nicaragua"
+    },
+    "code": {
+      "alpha2": "NI",
+      "alpha3": "NIC",
+      "numeric": "558",
+      "ioc": "NCA",
+      "phone": "+505"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "NIO",
+      "name": "Nicaraguan c\u00f3rdoba",
+      "symbol": "C$"
+    },
+    "capital": "Managua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      13,
+      -85
+    ],
+    "landlocked": false,
+    "area": 130373,
+    "flag": "\ud83c\uddf3\ud83c\uddee",
+    "domain": ".ni"
+  },
+  {
+    "name": {
+      "common": "Niue",
+      "official": "Niue",
+      "native": "Niue"
+    },
+    "code": {
+      "alpha2": "NU",
+      "alpha3": "NIU",
+      "numeric": "570",
+      "ioc": "",
+      "phone": "+683"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "capital": "Alofi",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Niuean"
+    ],
+    "geolocation": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "landlocked": false,
+    "area": 260,
+    "flag": "\ud83c\uddf3\ud83c\uddfa",
+    "domain": ".nu"
+  },
+  {
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands",
+      "native": "Nederland"
+    },
+    "code": {
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "numeric": "528",
+      "ioc": "NED",
+      "phone": "+31"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "Dutch"
+    ],
+    "geolocation": [
+      52.5,
+      5.75
+    ],
+    "landlocked": false,
+    "area": 41850,
+    "flag": "\ud83c\uddf3\ud83c\uddf1",
+    "domain": ".nl"
+  },
+  {
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway",
+      "native": "Noreg"
+    },
+    "code": {
+      "alpha2": "NO",
+      "alpha3": "NOR",
+      "numeric": "578",
+      "ioc": "NOR",
+      "phone": "+47"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    "capital": "Oslo",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokm\u00e5l",
+      "Sami"
+    ],
+    "geolocation": [
+      62,
+      10
+    ],
+    "landlocked": false,
+    "area": 323802,
+    "flag": "\ud83c\uddf3\ud83c\uddf4",
+    "domain": ".no"
+  },
+  {
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal",
+      "native": "\u0928\u0947\u092a\u093e\u0932"
+    },
+    "code": {
+      "alpha2": "NP",
+      "alpha3": "NPL",
+      "numeric": "524",
+      "ioc": "NEP",
+      "phone": "+977"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "NPR",
+      "name": "Nepalese rupee",
+      "symbol": "\u20a8"
+    },
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Nepali"
+    ],
+    "geolocation": [
+      28,
+      84
+    ],
+    "landlocked": true,
+    "area": 147181,
+    "flag": "\ud83c\uddf3\ud83c\uddf5",
+    "domain": ".np"
+  },
+  {
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru",
+      "native": "Nauru"
+    },
+    "code": {
+      "alpha2": "NR",
+      "alpha3": "NRU",
+      "numeric": "520",
+      "ioc": "NRU",
+      "phone": "+674"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "Yaren",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Nauru"
+    ],
+    "geolocation": [
+      -0.53333333,
+      166.91666666
+    ],
+    "landlocked": false,
+    "area": 21,
+    "flag": "\ud83c\uddf3\ud83c\uddf7",
+    "domain": ".nr"
+  },
+  {
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand",
+      "native": "New Zealand"
+    },
+    "code": {
+      "alpha2": "NZ",
+      "alpha3": "NZL",
+      "numeric": "554",
+      "ioc": "NZL",
+      "phone": "+64"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "capital": "Wellington",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English",
+      "M\u0101ori",
+      "New Zealand Sign Language"
+    ],
+    "geolocation": [
+      -41,
+      174
+    ],
+    "landlocked": false,
+    "area": 270467,
+    "flag": "\ud83c\uddf3\ud83c\uddff",
+    "domain": ".nz"
+  },
+  {
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman",
+      "native": "\u0639\u0645\u0627\u0646"
+    },
+    "code": {
+      "alpha2": "OM",
+      "alpha3": "OMN",
+      "numeric": "512",
+      "ioc": "OMA",
+      "phone": "+968"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "OMR",
+      "name": "Omani rial",
+      "symbol": "\u0631.\u0639."
+    },
+    "capital": "Muscat",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      21,
+      57
+    ],
+    "landlocked": false,
+    "area": 309500,
+    "flag": "\ud83c\uddf4\ud83c\uddf2",
+    "domain": ".om"
+  },
+  {
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan",
+      "native": "Pakistan"
+    },
+    "code": {
+      "alpha2": "PK",
+      "alpha3": "PAK",
+      "numeric": "586",
+      "ioc": "PAK",
+      "phone": "+92"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PKR",
+      "name": "Pakistani rupee",
+      "symbol": "\u20a8"
+    },
+    "capital": "Islamabad",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "geolocation": [
+      30,
+      70
+    ],
+    "landlocked": false,
+    "area": 881912,
+    "flag": "\ud83c\uddf5\ud83c\uddf0",
+    "domain": ".pk"
+  },
+  {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "native": "Panam\u00e1"
+    },
+    "code": {
+      "alpha2": "PA",
+      "alpha3": "PAN",
+      "numeric": "591",
+      "ioc": "PAN",
+      "phone": "+507"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PAB",
+      "name": "Panamanian balboa",
+      "symbol": "B/."
+    },
+    "capital": "Panama City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      9,
+      -80
+    ],
+    "landlocked": false,
+    "area": 75417,
+    "flag": "\ud83c\uddf5\ud83c\udde6",
+    "domain": ".pa"
+  },
+  {
+    "name": {
+      "common": "Pitcairn Islands",
+      "official": "Pitcairn Group of Islands",
+      "native": "Pitcairn Islands"
+    },
+    "code": {
+      "alpha2": "PN",
+      "alpha3": "PCN",
+      "numeric": "612",
+      "ioc": "",
+      "phone": "+64"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -25.06666666,
+      -130.1
+    ],
+    "landlocked": false,
+    "area": 47,
+    "flag": "\ud83c\uddf5\ud83c\uddf3",
+    "domain": ".pn"
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "native": "Piruw"
+    },
+    "code": {
+      "alpha2": "PE",
+      "alpha3": "PER",
+      "numeric": "604",
+      "ioc": "PER",
+      "phone": "+51"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PEN",
+      "name": "Peruvian sol",
+      "symbol": "S/."
+    },
+    "capital": "Lima",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ],
+    "geolocation": [
+      -10,
+      -76
+    ],
+    "landlocked": false,
+    "area": 1285216,
+    "flag": "\ud83c\uddf5\ud83c\uddea",
+    "domain": ".pe"
+  },
+  {
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines",
+      "native": "Philippines"
+    },
+    "code": {
+      "alpha2": "PH",
+      "alpha3": "PHL",
+      "numeric": "608",
+      "ioc": "PHI",
+      "phone": "+63"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PHP",
+      "name": "Philippine peso",
+      "symbol": "\u20b1"
+    },
+    "capital": "Manila",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "English",
+      "Filipino"
+    ],
+    "geolocation": [
+      13,
+      122
+    ],
+    "landlocked": false,
+    "area": 342353,
+    "flag": "\ud83c\uddf5\ud83c\udded",
+    "domain": ".ph"
+  },
+  {
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau",
+      "native": "Palau"
+    },
+    "code": {
+      "alpha2": "PW",
+      "alpha3": "PLW",
+      "numeric": "585",
+      "ioc": "PLW",
+      "phone": "+680"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Palauan"
+    ],
+    "geolocation": [
+      7.5,
+      134.5
+    ],
+    "landlocked": false,
+    "area": 459,
+    "flag": "\ud83c\uddf5\ud83c\uddfc",
+    "domain": ".pw"
+  },
+  {
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea",
+      "native": "Papua New Guinea"
+    },
+    "code": {
+      "alpha2": "PG",
+      "alpha3": "PNG",
+      "numeric": "598",
+      "ioc": "PNG",
+      "phone": "+675"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PGK",
+      "name": "Papua New Guinean kina",
+      "symbol": "K"
+    },
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "geolocation": [
+      -6,
+      147
+    ],
+    "landlocked": false,
+    "area": 462840,
+    "flag": "\ud83c\uddf5\ud83c\uddec",
+    "domain": ".pg"
+  },
+  {
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland",
+      "native": "Polska"
+    },
+    "code": {
+      "alpha2": "PL",
+      "alpha3": "POL",
+      "numeric": "616",
+      "ioc": "POL",
+      "phone": "+48"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PLN",
+      "name": "Polish z\u0142oty",
+      "symbol": "z\u0142"
+    },
+    "capital": "Warsaw",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": [
+      "Polish"
+    ],
+    "geolocation": [
+      52,
+      20
+    ],
+    "landlocked": false,
+    "area": 312679,
+    "flag": "\ud83c\uddf5\ud83c\uddf1",
+    "domain": ".pl"
+  },
+  {
+    "name": {
+      "common": "Puerto Rico",
+      "official": "Commonwealth of Puerto Rico",
+      "native": "Puerto Rico"
+    },
+    "code": {
+      "alpha2": "PR",
+      "alpha3": "PRI",
+      "numeric": "630",
+      "ioc": "PUR",
+      "phone": "+1787"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "San Juan",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "geolocation": [
+      18.25,
+      -66.5
+    ],
+    "landlocked": false,
+    "area": 8870,
+    "flag": "\ud83c\uddf5\ud83c\uddf7",
+    "domain": ".pr"
+  },
+  {
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea",
+      "native": "\uc870\uc120"
+    },
+    "code": {
+      "alpha2": "KP",
+      "alpha3": "PRK",
+      "numeric": "408",
+      "ioc": "PRK",
+      "phone": "+850"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "KPW",
+      "name": "North Korean won",
+      "symbol": "\u20a9"
+    },
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Korean"
+    ],
+    "geolocation": [
+      40,
+      127
+    ],
+    "landlocked": false,
+    "area": 120538,
+    "flag": "\ud83c\uddf0\ud83c\uddf5",
+    "domain": ".kp"
+  },
+  {
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic",
+      "native": "Portugal"
+    },
+    "code": {
+      "alpha2": "PT",
+      "alpha3": "PRT",
+      "numeric": "620",
+      "ioc": "POR",
+      "phone": "+351"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Lisbon",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Portuguese"
+    ],
+    "geolocation": [
+      39.5,
+      -8
+    ],
+    "landlocked": false,
+    "area": 92090,
+    "flag": "\ud83c\uddf5\ud83c\uddf9",
+    "domain": ".pt"
+  },
+  {
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay",
+      "native": "Paragu\u00e1i"
+    },
+    "code": {
+      "alpha2": "PY",
+      "alpha3": "PRY",
+      "numeric": "600",
+      "ioc": "PAR",
+      "phone": "+595"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "PYG",
+      "name": "Paraguayan guaran\u00ed",
+      "symbol": "\u20b2"
+    },
+    "capital": "Asunci\u00f3n",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Guaran\u00ed",
+      "Spanish"
+    ],
+    "geolocation": [
+      -23,
+      -58
+    ],
+    "landlocked": true,
+    "area": 406752,
+    "flag": "\ud83c\uddf5\ud83c\uddfe",
+    "domain": ".py"
+  },
+  {
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine",
+      "native": "\u0641\u0644\u0633\u0637\u064a\u0646"
+    },
+    "code": {
+      "alpha2": "PS",
+      "alpha3": "PSE",
+      "numeric": "275",
+      "ioc": "PLE",
+      "phone": "+970"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "E\u00a3"
+    },
+    "capital": "Ramallah",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      31.9,
+      35.2
+    ],
+    "landlocked": false,
+    "area": 6220,
+    "flag": "\ud83c\uddf5\ud83c\uddf8",
+    "domain": ".ps"
+  },
+  {
+    "name": {
+      "common": "French Polynesia",
+      "official": "French Polynesia",
+      "native": "Polyn\u00e9sie fran\u00e7aise"
+    },
+    "code": {
+      "alpha2": "PF",
+      "alpha3": "PYF",
+      "numeric": "258",
+      "ioc": "",
+      "phone": "+689"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "\u20a3"
+    },
+    "capital": "Papeet\u0113",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -15,
+      -140
+    ],
+    "landlocked": false,
+    "area": 4167,
+    "flag": "\ud83c\uddf5\ud83c\uddeb",
+    "domain": ".pf"
+  },
+  {
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "native": "\u0642\u0637\u0631"
+    },
+    "code": {
+      "alpha2": "QA",
+      "alpha3": "QAT",
+      "numeric": "634",
+      "ioc": "QAT",
+      "phone": "+974"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "QAR",
+      "name": "Qatari riyal",
+      "symbol": "\u0631.\u0642"
+    },
+    "capital": "Doha",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      25.5,
+      51.25
+    ],
+    "landlocked": false,
+    "area": 11586,
+    "flag": "\ud83c\uddf6\ud83c\udde6",
+    "domain": ".qa"
+  },
+  {
+    "name": {
+      "common": "R\u00e9union",
+      "official": "R\u00e9union Island",
+      "native": "La R\u00e9union"
+    },
+    "code": {
+      "alpha2": "RE",
+      "alpha3": "REU",
+      "numeric": "638",
+      "ioc": "",
+      "phone": "+262"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -21.15,
+      55.5
+    ],
+    "landlocked": false,
+    "area": 2511,
+    "flag": "\ud83c\uddf7\ud83c\uddea",
+    "domain": ".re"
+  },
+  {
+    "name": {
+      "common": "Romania",
+      "official": "Romania",
+      "native": "Rom\u00e2nia"
+    },
+    "code": {
+      "alpha2": "RO",
+      "alpha3": "ROU",
+      "numeric": "642",
+      "ioc": "ROU",
+      "phone": "+40"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "RON",
+      "name": "Romanian leu",
+      "symbol": "lei"
+    },
+    "capital": "Bucharest",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Romanian"
+    ],
+    "geolocation": [
+      46,
+      25
+    ],
+    "landlocked": false,
+    "area": 238391,
+    "flag": "\ud83c\uddf7\ud83c\uddf4",
+    "domain": ".ro"
+  },
+  {
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation",
+      "native": "\u0420\u043e\u0441\u0441\u0438\u044f"
+    },
+    "code": {
+      "alpha2": "RU",
+      "alpha3": "RUS",
+      "numeric": "643",
+      "ioc": "RUS",
+      "phone": "+73"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "RUB",
+      "name": "Russian ruble",
+      "symbol": "\u20bd"
+    },
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Russian"
+    ],
+    "geolocation": [
+      60,
+      100
+    ],
+    "landlocked": false,
+    "area": 17098242,
+    "flag": "\ud83c\uddf7\ud83c\uddfa",
+    "domain": ".ru"
+  },
+  {
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda",
+      "native": "Rwanda"
+    },
+    "code": {
+      "alpha2": "RW",
+      "alpha3": "RWA",
+      "numeric": "646",
+      "ioc": "RWA",
+      "phone": "+250"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "RWF",
+      "name": "Rwandan franc",
+      "symbol": "Fr"
+    },
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ],
+    "geolocation": [
+      -2,
+      30
+    ],
+    "landlocked": true,
+    "area": 26338,
+    "flag": "\ud83c\uddf7\ud83c\uddfc",
+    "domain": ".rw"
+  },
+  {
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia",
+      "native": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+    },
+    "code": {
+      "alpha2": "SA",
+      "alpha3": "SAU",
+      "numeric": "682",
+      "ioc": "KSA",
+      "phone": "+966"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SAR",
+      "name": "Saudi riyal",
+      "symbol": "\u0631.\u0633"
+    },
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      25,
+      45
+    ],
+    "landlocked": false,
+    "area": 2149690,
+    "flag": "\ud83c\uddf8\ud83c\udde6",
+    "domain": ".sa"
+  },
+  {
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan",
+      "native": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+    },
+    "code": {
+      "alpha2": "SD",
+      "alpha3": "SDN",
+      "numeric": "729",
+      "ioc": "SUD",
+      "phone": "+249"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SDG",
+      "name": "Sudanese pound",
+      "symbol": "PT"
+    },
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "geolocation": [
+      15,
+      30
+    ],
+    "landlocked": false,
+    "area": 1886068,
+    "flag": "\ud83c\uddf8\ud83c\udde9",
+    "domain": ".sd"
+  },
+  {
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal",
+      "native": "S\u00e9n\u00e9gal"
+    },
+    "code": {
+      "alpha2": "SN",
+      "alpha3": "SEN",
+      "numeric": "686",
+      "ioc": "SEN",
+      "phone": "+221"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      14,
+      -14
+    ],
+    "landlocked": false,
+    "area": 196722,
+    "flag": "\ud83c\uddf8\ud83c\uddf3",
+    "domain": ".sn"
+  },
+  {
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore",
+      "native": "\u65b0\u52a0\u5761"
+    },
+    "code": {
+      "alpha2": "SG",
+      "alpha3": "SGP",
+      "numeric": "702",
+      "ioc": "SGP",
+      "phone": "+65"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SGD",
+      "name": "Singapore dollar",
+      "symbol": "$"
+    },
+    "capital": "Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Chinese",
+      "English",
+      "Malay",
+      "Tamil"
+    ],
+    "geolocation": [
+      1.36666666,
+      103.8
+    ],
+    "landlocked": false,
+    "area": 710,
+    "flag": "\ud83c\uddf8\ud83c\uddec",
+    "domain": ".sg"
+  },
+  {
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands",
+      "native": "South Georgia"
+    },
+    "code": {
+      "alpha2": "GS",
+      "alpha3": "SGS",
+      "numeric": "239",
+      "ioc": "",
+      "phone": "+500"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "SHP",
+      "name": "Saint Helena pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "King Edward Point",
+    "region": "Antarctic",
+    "subregion": "",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -54.5,
+      -37
+    ],
+    "landlocked": false,
+    "area": 3903,
+    "flag": "\ud83c\uddec\ud83c\uddf8",
+    "domain": ".gs"
+  },
+  {
+    "name": {
+      "common": "Svalbard and Jan Mayen",
+      "official": "Svalbard og Jan Mayen",
+      "native": "Svalbard og Jan Mayen"
+    },
+    "code": {
+      "alpha2": "SJ",
+      "alpha3": "SJM",
+      "numeric": "744",
+      "ioc": "",
+      "phone": "+4779"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "NOK",
+      "name": "krone",
+      "symbol": "kr"
+    },
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Norwegian"
+    ],
+    "geolocation": [
+      78,
+      20
+    ],
+    "landlocked": false,
+    "area": -1,
+    "flag": "\ud83c\uddf8\ud83c\uddef",
+    "domain": ".sj"
+  },
+  {
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands",
+      "native": "Solomon Islands"
+    },
+    "code": {
+      "alpha2": "SB",
+      "alpha3": "SLB",
+      "numeric": "090",
+      "ioc": "SOL",
+      "phone": "+677"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SBD",
+      "name": "Solomon Islands dollar",
+      "symbol": "$"
+    },
+    "capital": "Honiara",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -8,
+      159
+    ],
+    "landlocked": false,
+    "area": 28896,
+    "flag": "\ud83c\uddf8\ud83c\udde7",
+    "domain": ".sb"
+  },
+  {
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone",
+      "native": "Sierra Leone"
+    },
+    "code": {
+      "alpha2": "SL",
+      "alpha3": "SLE",
+      "numeric": "694",
+      "ioc": "SLE",
+      "phone": "+232"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SLL",
+      "name": "Sierra Leonean leone",
+      "symbol": "Le"
+    },
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      8.5,
+      -11.5
+    ],
+    "landlocked": false,
+    "area": 71740,
+    "flag": "\ud83c\uddf8\ud83c\uddf1",
+    "domain": ".sl"
+  },
+  {
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "native": "El Salvador"
+    },
+    "code": {
+      "alpha2": "SV",
+      "alpha3": "SLV",
+      "numeric": "222",
+      "ioc": "ESA",
+      "phone": "+503"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "San Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      13.83333333,
+      -88.91666666
+    ],
+    "landlocked": false,
+    "area": 21041,
+    "flag": "\ud83c\uddf8\ud83c\uddfb",
+    "domain": ".sv"
+  },
+  {
+    "name": {
+      "common": "San Marino",
+      "official": "Most Serene Republic of San Marino",
+      "native": "San Marino"
+    },
+    "code": {
+      "alpha2": "SM",
+      "alpha3": "SMR",
+      "numeric": "674",
+      "ioc": "SMR",
+      "phone": "+378"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Italian"
+    ],
+    "geolocation": [
+      43.76666666,
+      12.41666666
+    ],
+    "landlocked": true,
+    "area": 61,
+    "flag": "\ud83c\uddf8\ud83c\uddf2",
+    "domain": ".sm"
+  },
+  {
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia",
+      "native": "\u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e\u200e"
+    },
+    "code": {
+      "alpha2": "SO",
+      "alpha3": "SOM",
+      "numeric": "706",
+      "ioc": "SOM",
+      "phone": "+252"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SOS",
+      "name": "Somali shilling",
+      "symbol": "Sh"
+    },
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "geolocation": [
+      10,
+      49
+    ],
+    "landlocked": false,
+    "area": 637657,
+    "flag": "\ud83c\uddf8\ud83c\uddf4",
+    "domain": ".so"
+  },
+  {
+    "name": {
+      "common": "Saint Pierre and Miquelon",
+      "official": "Saint Pierre and Miquelon",
+      "native": "Saint-Pierre-et-Miquelon"
+    },
+    "code": {
+      "alpha2": "PM",
+      "alpha3": "SPM",
+      "numeric": "666",
+      "ioc": "",
+      "phone": "+508"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      46.83333333,
+      -56.33333333
+    ],
+    "landlocked": false,
+    "area": 242,
+    "flag": "\ud83c\uddf5\ud83c\uddf2",
+    "domain": ".pm"
+  },
+  {
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia",
+      "native": "\u0421\u0440\u0431\u0438\u0458\u0430"
+    },
+    "code": {
+      "alpha2": "RS",
+      "alpha3": "SRB",
+      "numeric": "688",
+      "ioc": "SRB",
+      "phone": "+381"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "RSD",
+      "name": "Serbian dinar",
+      "symbol": "\u0434\u0438\u043d."
+    },
+    "capital": "Belgrade",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": [
+      "Serbian"
+    ],
+    "geolocation": [
+      44,
+      21
+    ],
+    "landlocked": true,
+    "area": 88361,
+    "flag": "\ud83c\uddf7\ud83c\uddf8",
+    "domain": ".rs"
+  },
+  {
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan",
+      "native": "South Sudan"
+    },
+    "code": {
+      "alpha2": "SS",
+      "alpha3": "SSD",
+      "numeric": "728",
+      "ioc": "",
+      "phone": "+211"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SSP",
+      "name": "South Sudanese pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      7,
+      30
+    ],
+    "landlocked": true,
+    "area": 619745,
+    "flag": "\ud83c\uddf8\ud83c\uddf8",
+    "domain": ".ss"
+  },
+  {
+    "name": {
+      "common": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "official": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "native": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+    },
+    "code": {
+      "alpha2": "ST",
+      "alpha3": "STP",
+      "numeric": "678",
+      "ioc": "STP",
+      "phone": "+239"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "STN",
+      "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+      "symbol": "Db"
+    },
+    "capital": "S\u00e3o Tom\u00e9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "geolocation": [
+      1,
+      7
+    ],
+    "landlocked": false,
+    "area": 964,
+    "flag": "\ud83c\uddf8\ud83c\uddf9",
+    "domain": ".st"
+  },
+  {
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname",
+      "native": "Suriname"
+    },
+    "code": {
+      "alpha2": "SR",
+      "alpha3": "SUR",
+      "numeric": "740",
+      "ioc": "SUR",
+      "phone": "+597"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SRD",
+      "name": "Surinamese dollar",
+      "symbol": "$"
+    },
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Dutch"
+    ],
+    "geolocation": [
+      4,
+      -56
+    ],
+    "landlocked": false,
+    "area": 163820,
+    "flag": "\ud83c\uddf8\ud83c\uddf7",
+    "domain": ".sr"
+  },
+  {
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic",
+      "native": "Slovensko"
+    },
+    "code": {
+      "alpha2": "SK",
+      "alpha3": "SVK",
+      "numeric": "703",
+      "ioc": "SVK",
+      "phone": "+421"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Bratislava",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": [
+      "Slovak"
+    ],
+    "geolocation": [
+      48.66666666,
+      19.5
+    ],
+    "landlocked": true,
+    "area": 49037,
+    "flag": "\ud83c\uddf8\ud83c\uddf0",
+    "domain": ".sk"
+  },
+  {
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia",
+      "native": "Slovenija"
+    },
+    "code": {
+      "alpha2": "SI",
+      "alpha3": "SVN",
+      "numeric": "705",
+      "ioc": "SLO",
+      "phone": "+386"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": [
+      "Slovene"
+    ],
+    "geolocation": [
+      46.11666666,
+      14.81666666
+    ],
+    "landlocked": false,
+    "area": 20273,
+    "flag": "\ud83c\uddf8\ud83c\uddee",
+    "domain": ".si"
+  },
+  {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden",
+      "native": "Sverige"
+    },
+    "code": {
+      "alpha2": "SE",
+      "alpha3": "SWE",
+      "numeric": "752",
+      "ioc": "SWE",
+      "phone": "+46"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SEK",
+      "name": "Swedish krona",
+      "symbol": "kr"
+    },
+    "capital": "Stockholm",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Swedish"
+    ],
+    "geolocation": [
+      62,
+      15
+    ],
+    "landlocked": false,
+    "area": 450295,
+    "flag": "\ud83c\uddf8\ud83c\uddea",
+    "domain": ".se"
+  },
+  {
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini",
+      "native": "Eswatini"
+    },
+    "code": {
+      "alpha2": "SZ",
+      "alpha3": "SWZ",
+      "numeric": "748",
+      "ioc": "SWZ",
+      "phone": "+268"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SZL",
+      "name": "Swazi lilangeni",
+      "symbol": "L"
+    },
+    "capital": "Lobamba",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "English",
+      "Swazi"
+    ],
+    "geolocation": [
+      -26.5,
+      31.5
+    ],
+    "landlocked": true,
+    "area": 17364,
+    "flag": "\ud83c\uddf8\ud83c\uddff",
+    "domain": ".sz"
+  },
+  {
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten",
+      "native": "Sint Maarten"
+    },
+    "code": {
+      "alpha2": "SX",
+      "alpha3": "SXM",
+      "numeric": "534",
+      "ioc": "",
+      "phone": "+1721"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "\u0192"
+    },
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "French",
+      "Dutch"
+    ],
+    "geolocation": [
+      18.033333,
+      -63.05
+    ],
+    "landlocked": false,
+    "area": 34,
+    "flag": "\ud83c\uddf8\ud83c\uddfd",
+    "domain": ".sx"
+  },
+  {
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles",
+      "native": "Sesel"
+    },
+    "code": {
+      "alpha2": "SC",
+      "alpha3": "SYC",
+      "numeric": "690",
+      "ioc": "SEY",
+      "phone": "+248"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SCR",
+      "name": "Seychellois rupee",
+      "symbol": "\u20a8"
+    },
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "geolocation": [
+      -4.58333333,
+      55.66666666
+    ],
+    "landlocked": false,
+    "area": 452,
+    "flag": "\ud83c\uddf8\ud83c\udde8",
+    "domain": ".sc"
+  },
+  {
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic",
+      "native": "\u0633\u0648\u0631\u064a\u0627"
+    },
+    "code": {
+      "alpha2": "SY",
+      "alpha3": "SYR",
+      "numeric": "760",
+      "ioc": "SYR",
+      "phone": "+963"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "SYP",
+      "name": "Syrian pound",
+      "symbol": "\u00a3"
+    },
+    "capital": "Damascus",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      35,
+      38
+    ],
+    "landlocked": false,
+    "area": 185180,
+    "flag": "\ud83c\uddf8\ud83c\uddfe",
+    "domain": ".sy"
+  },
+  {
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands",
+      "native": "Turks and Caicos Islands"
+    },
+    "code": {
+      "alpha2": "TC",
+      "alpha3": "TCA",
+      "numeric": "796",
+      "ioc": "",
+      "phone": "+1649"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      21.75,
+      -71.58333333
+    ],
+    "landlocked": false,
+    "area": 948,
+    "flag": "\ud83c\uddf9\ud83c\udde8",
+    "domain": ".tc"
+  },
+  {
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad",
+      "native": "\u062a\u0634\u0627\u062f\u200e"
+    },
+    "code": {
+      "alpha2": "TD",
+      "alpha3": "TCD",
+      "numeric": "148",
+      "ioc": "CHA",
+      "phone": "+235"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "geolocation": [
+      15,
+      19
+    ],
+    "landlocked": true,
+    "area": 1284000,
+    "flag": "\ud83c\uddf9\ud83c\udde9",
+    "domain": ".td"
+  },
+  {
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic",
+      "native": "Togo"
+    },
+    "code": {
+      "alpha2": "TG",
+      "alpha3": "TGO",
+      "numeric": "768",
+      "ioc": "TOG",
+      "phone": "+228"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "capital": "Lom\u00e9",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      8,
+      1.16666666
+    ],
+    "landlocked": false,
+    "area": 56785,
+    "flag": "\ud83c\uddf9\ud83c\uddec",
+    "domain": ".tg"
+  },
+  {
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand",
+      "native": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
+    },
+    "code": {
+      "alpha2": "TH",
+      "alpha3": "THA",
+      "numeric": "764",
+      "ioc": "THA",
+      "phone": "+66"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "THB",
+      "name": "Thai baht",
+      "symbol": "\u0e3f"
+    },
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Thai"
+    ],
+    "geolocation": [
+      15,
+      100
+    ],
+    "landlocked": false,
+    "area": 513120,
+    "flag": "\ud83c\uddf9\ud83c\udded",
+    "domain": ".th"
+  },
+  {
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan",
+      "native": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
+    },
+    "code": {
+      "alpha2": "TJ",
+      "alpha3": "TJK",
+      "numeric": "762",
+      "ioc": "TJK",
+      "phone": "+992"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TJS",
+      "name": "Tajikistani somoni",
+      "symbol": "\u0405\u041c"
+    },
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Russian",
+      "Tajik"
+    ],
+    "geolocation": [
+      39,
+      71
+    ],
+    "landlocked": true,
+    "area": 143100,
+    "flag": "\ud83c\uddf9\ud83c\uddef",
+    "domain": ".tj"
+  },
+  {
+    "name": {
+      "common": "Tokelau",
+      "official": "Tokelau",
+      "native": "Tokelau"
+    },
+    "code": {
+      "alpha2": "TK",
+      "alpha3": "TKL",
+      "numeric": "772",
+      "ioc": "",
+      "phone": "+690"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Samoan",
+      "Tokelauan"
+    ],
+    "geolocation": [
+      -9,
+      -172
+    ],
+    "landlocked": false,
+    "area": 12,
+    "flag": "\ud83c\uddf9\ud83c\uddf0",
+    "domain": ".tk"
+  },
+  {
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan",
+      "native": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f"
+    },
+    "code": {
+      "alpha2": "TM",
+      "alpha3": "TKM",
+      "numeric": "795",
+      "ioc": "TKM",
+      "phone": "+993"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TMT",
+      "name": "Turkmenistan manat",
+      "symbol": "m"
+    },
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Russian",
+      "Turkmen"
+    ],
+    "geolocation": [
+      40,
+      60
+    ],
+    "landlocked": true,
+    "area": 488100,
+    "flag": "\ud83c\uddf9\ud83c\uddf2",
+    "domain": ".tm"
+  },
+  {
+    "name": {
+      "common": "Timor-Leste",
+      "official": "Democratic Republic of Timor-Leste",
+      "native": "Timor-Leste"
+    },
+    "code": {
+      "alpha2": "TL",
+      "alpha3": "TLS",
+      "numeric": "626",
+      "ioc": "TLS",
+      "phone": "+670"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Dili",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "geolocation": [
+      -8.83333333,
+      125.91666666
+    ],
+    "landlocked": false,
+    "area": 14874,
+    "flag": "\ud83c\uddf9\ud83c\uddf1",
+    "domain": ".tl"
+  },
+  {
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga",
+      "native": "Tonga"
+    },
+    "code": {
+      "alpha2": "TO",
+      "alpha3": "TON",
+      "numeric": "776",
+      "ioc": "TGA",
+      "phone": "+676"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TOP",
+      "name": "Tongan pa\u02bbanga",
+      "symbol": "T$"
+    },
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Tongan"
+    ],
+    "geolocation": [
+      -20,
+      -175
+    ],
+    "landlocked": false,
+    "area": 747,
+    "flag": "\ud83c\uddf9\ud83c\uddf4",
+    "domain": ".to"
+  },
+  {
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago",
+      "native": "Trinidad and Tobago"
+    },
+    "code": {
+      "alpha2": "TT",
+      "alpha3": "TTO",
+      "numeric": "780",
+      "ioc": "TTO",
+      "phone": "+1868"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TTD",
+      "name": "Trinidad and Tobago dollar",
+      "symbol": "$"
+    },
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      11,
+      -61
+    ],
+    "landlocked": false,
+    "area": 5130,
+    "flag": "\ud83c\uddf9\ud83c\uddf9",
+    "domain": ".tt"
+  },
+  {
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic",
+      "native": "\u062a\u0648\u0646\u0633"
+    },
+    "code": {
+      "alpha2": "TN",
+      "alpha3": "TUN",
+      "numeric": "788",
+      "ioc": "TUN",
+      "phone": "+216"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TND",
+      "name": "Tunisian dinar",
+      "symbol": "\u062f.\u062a"
+    },
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      34,
+      9
+    ],
+    "landlocked": false,
+    "area": 163610,
+    "flag": "\ud83c\uddf9\ud83c\uddf3",
+    "domain": ".tn"
+  },
+  {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of T\u00fcrkiye",
+      "native": "T\u00fcrkiye"
+    },
+    "code": {
+      "alpha2": "TR",
+      "alpha3": "TUR",
+      "numeric": "792",
+      "ioc": "TUR",
+      "phone": "+90"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TRY",
+      "name": "Turkish lira",
+      "symbol": "\u20ba"
+    },
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Turkish"
+    ],
+    "geolocation": [
+      39,
+      35
+    ],
+    "landlocked": false,
+    "area": 783562,
+    "flag": "\ud83c\uddf9\ud83c\uddf7",
+    "domain": ".tr"
+  },
+  {
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu",
+      "native": "Tuvalu"
+    },
+    "code": {
+      "alpha2": "TV",
+      "alpha3": "TUV",
+      "numeric": "798",
+      "ioc": "TUV",
+      "phone": "+688"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Tuvaluan"
+    ],
+    "geolocation": [
+      -8,
+      178
+    ],
+    "landlocked": false,
+    "area": 26,
+    "flag": "\ud83c\uddf9\ud83c\uddfb",
+    "domain": ".tv"
+  },
+  {
+    "name": {
+      "common": "Taiwan",
+      "official": "Republic of China (Taiwan)",
+      "native": "\u53f0\u7063"
+    },
+    "code": {
+      "alpha2": "TW",
+      "alpha3": "TWN",
+      "numeric": "158",
+      "ioc": "TPE",
+      "phone": "+886"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "TWD",
+      "name": "New Taiwan dollar",
+      "symbol": "$"
+    },
+    "capital": "Taipei",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Chinese"
+    ],
+    "geolocation": [
+      23.5,
+      121
+    ],
+    "landlocked": false,
+    "area": 36193,
+    "flag": "\ud83c\uddf9\ud83c\uddfc",
+    "domain": ".tw"
+  },
+  {
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania",
+      "native": "Tanzania"
+    },
+    "code": {
+      "alpha2": "TZ",
+      "alpha3": "TZA",
+      "numeric": "834",
+      "ioc": "TAN",
+      "phone": "+255"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "TZS",
+      "name": "Tanzanian shilling",
+      "symbol": "Sh"
+    },
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "geolocation": [
+      -6,
+      35
+    ],
+    "landlocked": false,
+    "area": 945087,
+    "flag": "\ud83c\uddf9\ud83c\uddff",
+    "domain": ".tz"
+  },
+  {
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda",
+      "native": "Uganda"
+    },
+    "code": {
+      "alpha2": "UG",
+      "alpha3": "UGA",
+      "numeric": "800",
+      "ioc": "UGA",
+      "phone": "+256"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "UGX",
+      "name": "Ugandan shilling",
+      "symbol": "Sh"
+    },
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "geolocation": [
+      1,
+      32
+    ],
+    "landlocked": true,
+    "area": 241550,
+    "flag": "\ud83c\uddfa\ud83c\uddec",
+    "domain": ".ug"
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "native": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+    },
+    "code": {
+      "alpha2": "UA",
+      "alpha3": "UKR",
+      "numeric": "804",
+      "ioc": "UKR",
+      "phone": "+380"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "UAH",
+      "name": "Ukrainian hryvnia",
+      "symbol": "\u20b4"
+    },
+    "capital": "Kyiv",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Ukrainian"
+    ],
+    "geolocation": [
+      49,
+      32
+    ],
+    "landlocked": false,
+    "area": 603500,
+    "flag": "\ud83c\uddfa\ud83c\udde6",
+    "domain": ".ua"
+  },
+  {
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands",
+      "native": "United States Minor Outlying Islands"
+    },
+    "code": {
+      "alpha2": "UM",
+      "alpha3": "UMI",
+      "numeric": "581",
+      "ioc": "",
+      "phone": "+268"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      19.3,
+      166.633333
+    ],
+    "landlocked": false,
+    "area": 34.2,
+    "flag": "\ud83c\uddfa\ud83c\uddf2",
+    "domain": ".us"
+  },
+  {
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay",
+      "native": "Uruguay"
+    },
+    "code": {
+      "alpha2": "UY",
+      "alpha3": "URY",
+      "numeric": "858",
+      "ioc": "URU",
+      "phone": "+598"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "UYU",
+      "name": "Uruguayan peso",
+      "symbol": "$"
+    },
+    "capital": "Montevideo",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      -33,
+      -56
+    ],
+    "landlocked": false,
+    "area": 181034,
+    "flag": "\ud83c\uddfa\ud83c\uddfe",
+    "domain": ".uy"
+  },
+  {
+    "name": {
+      "common": "United States",
+      "official": "United States of America",
+      "native": "United States"
+    },
+    "code": {
+      "alpha2": "US",
+      "alpha3": "USA",
+      "numeric": "840",
+      "ioc": "USA",
+      "phone": "+1201"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Washington D.C.",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      38,
+      -97
+    ],
+    "landlocked": false,
+    "area": 9372610,
+    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "domain": ".us"
+  },
+  {
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan",
+      "native": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+    },
+    "code": {
+      "alpha2": "UZ",
+      "alpha3": "UZB",
+      "numeric": "860",
+      "ioc": "UZB",
+      "phone": "+998"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "UZS",
+      "name": "Uzbekistani so\u02bbm",
+      "symbol": "so'm"
+    },
+    "capital": "Tashkent",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Russian",
+      "Uzbek"
+    ],
+    "geolocation": [
+      41,
+      64
+    ],
+    "landlocked": true,
+    "area": 447400,
+    "flag": "\ud83c\uddfa\ud83c\uddff",
+    "domain": ".uz"
+  },
+  {
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State",
+      "native": "Vaticano"
+    },
+    "code": {
+      "alpha2": "VA",
+      "alpha3": "VAT",
+      "numeric": "336",
+      "ioc": "",
+      "phone": "+3906698"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "\u20ac"
+    },
+    "capital": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "geolocation": [
+      41.9,
+      12.45
+    ],
+    "landlocked": true,
+    "area": 0.44,
+    "flag": "\ud83c\uddfb\ud83c\udde6",
+    "domain": ".va"
+  },
+  {
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines",
+      "native": "Saint Vincent and the Grenadines"
+    },
+    "code": {
+      "alpha2": "VC",
+      "alpha3": "VCT",
+      "numeric": "670",
+      "ioc": "VIN",
+      "phone": "+1784"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "XCD",
+      "name": "Eastern Caribbean dollar",
+      "symbol": "$"
+    },
+    "capital": "Kingstown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      13.25,
+      -61.2
+    ],
+    "landlocked": false,
+    "area": 389,
+    "flag": "\ud83c\uddfb\ud83c\udde8",
+    "domain": ".vc"
+  },
+  {
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela",
+      "native": "Venezuela"
+    },
+    "code": {
+      "alpha2": "VE",
+      "alpha3": "VEN",
+      "numeric": "862",
+      "ioc": "VEN",
+      "phone": "+58"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "VES",
+      "name": "Venezuelan bol\u00edvar soberano",
+      "symbol": "Bs.S."
+    },
+    "capital": "Caracas",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "geolocation": [
+      8,
+      -66
+    ],
+    "landlocked": false,
+    "area": 916445,
+    "flag": "\ud83c\uddfb\ud83c\uddea",
+    "domain": ".ve"
+  },
+  {
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands",
+      "native": "British Virgin Islands"
+    },
+    "code": {
+      "alpha2": "VG",
+      "alpha3": "VGB",
+      "numeric": "092",
+      "ioc": "IVB",
+      "phone": "+1284"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Road Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      18.431383,
+      -64.62305
+    ],
+    "landlocked": false,
+    "area": 151,
+    "flag": "\ud83c\uddfb\ud83c\uddec",
+    "domain": ".vg"
+  },
+  {
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States",
+      "native": "United States Virgin Islands"
+    },
+    "code": {
+      "alpha2": "VI",
+      "alpha3": "VIR",
+      "numeric": "850",
+      "ioc": "ISV",
+      "phone": "+1340"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      18.35,
+      -64.933333
+    ],
+    "landlocked": false,
+    "area": 347,
+    "flag": "\ud83c\uddfb\ud83c\uddee",
+    "domain": ".vi"
+  },
+  {
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam",
+      "native": "Vi\u1ec7t Nam"
+    },
+    "code": {
+      "alpha2": "VN",
+      "alpha3": "VNM",
+      "numeric": "704",
+      "ioc": "VIE",
+      "phone": "+84"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "VND",
+      "name": "Vietnamese \u0111\u1ed3ng",
+      "symbol": "\u20ab"
+    },
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Vietnamese"
+    ],
+    "geolocation": [
+      16.16666666,
+      107.83333333
+    ],
+    "landlocked": false,
+    "area": 331212,
+    "flag": "\ud83c\uddfb\ud83c\uddf3",
+    "domain": ".vn"
+  },
+  {
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu",
+      "native": "Vanuatu"
+    },
+    "code": {
+      "alpha2": "VU",
+      "alpha3": "VUT",
+      "numeric": "548",
+      "ioc": "VAN",
+      "phone": "+678"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "VUV",
+      "name": "Vanuatu vatu",
+      "symbol": "Vt"
+    },
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "geolocation": [
+      -16,
+      167
+    ],
+    "landlocked": false,
+    "area": 12189,
+    "flag": "\ud83c\uddfb\ud83c\uddfa",
+    "domain": ".vu"
+  },
+  {
+    "name": {
+      "common": "Wallis and Futuna",
+      "official": "Territory of the Wallis and Futuna Islands",
+      "native": "Wallis et Futuna"
+    },
+    "code": {
+      "alpha2": "WF",
+      "alpha3": "WLF",
+      "numeric": "876",
+      "ioc": "",
+      "phone": "+681"
+    },
+    "status": "officially-assigned",
+    "independent": false,
+    "unmember": false,
+    "currencies": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "\u20a3"
+    },
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "French"
+    ],
+    "geolocation": [
+      -13.3,
+      -176.2
+    ],
+    "landlocked": false,
+    "area": 142,
+    "flag": "\ud83c\uddfc\ud83c\uddeb",
+    "domain": ".wf"
+  },
+  {
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa",
+      "native": "Samoa"
+    },
+    "code": {
+      "alpha2": "WS",
+      "alpha3": "WSM",
+      "numeric": "882",
+      "ioc": "SAM",
+      "phone": "+685"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "WST",
+      "name": "Samoan t\u0101l\u0101",
+      "symbol": "T"
+    },
+    "capital": "Apia",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "geolocation": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "landlocked": false,
+    "area": 2842,
+    "flag": "\ud83c\uddfc\ud83c\uddf8",
+    "domain": ".ws"
+  },
+  {
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen",
+      "native": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646"
+    },
+    "code": {
+      "alpha2": "YE",
+      "alpha3": "YEM",
+      "numeric": "887",
+      "ioc": "YEM",
+      "phone": "+967"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "YER",
+      "name": "Yemeni rial",
+      "symbol": "\ufdfc"
+    },
+    "capital": "Sana'a",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "geolocation": [
+      15,
+      48
+    ],
+    "landlocked": false,
+    "area": 527968,
+    "flag": "\ud83c\uddfe\ud83c\uddea",
+    "domain": ".ye"
+  },
+  {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "native": "South Africa"
+    },
+    "code": {
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "numeric": "710",
+      "ioc": "RSA",
+      "phone": "+27"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    },
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "geolocation": [
+      -29,
+      24
+    ],
+    "landlocked": false,
+    "area": 1221037,
+    "flag": "\ud83c\uddff\ud83c\udde6",
+    "domain": ".za"
+  },
+  {
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia",
+      "native": "Zambia"
+    },
+    "code": {
+      "alpha2": "ZM",
+      "alpha3": "ZMB",
+      "numeric": "894",
+      "ioc": "ZAM",
+      "phone": "+260"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "ZMW",
+      "name": "Zambian kwacha",
+      "symbol": "ZK"
+    },
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English"
+    ],
+    "geolocation": [
+      -15,
+      30
+    ],
+    "landlocked": true,
+    "area": 752612,
+    "flag": "\ud83c\uddff\ud83c\uddf2",
+    "domain": ".zm"
+  },
+  {
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe",
+      "native": "Zimbabwe"
+    },
+    "code": {
+      "alpha2": "ZW",
+      "alpha3": "ZWE",
+      "numeric": "716",
+      "ioc": "ZIM",
+      "phone": "+263"
+    },
+    "status": "officially-assigned",
+    "independent": true,
+    "unmember": true,
+    "currencies": {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    },
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "geolocation": [
+      -20,
+      30
+    ],
+    "landlocked": true,
+    "area": 390757,
+    "flag": "\ud83c\uddff\ud83c\uddfc",
+    "domain": ".zw"
+  }
+]
