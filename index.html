@@ -1,22 +1,47 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Riky Ripaldo | Portofolio</title>
-  <link rel="icon" href="/malas.png" integrity="sha384-JTLmiVtNfYnRWQATixtZd94P4BM2fYFYtErcA0VQ/bfQukqQJqWiIdlIOJoDyIKs"/>
-  <link rel="stylesheet" href="/style.css" integrity="sha384-pWRn8aYpu3Bel23qe33HL8SRpnHbL25XMsdp41RmytO3nzO73gJY6XAi38OnUYkI"/>
-  <link rel="modulepreload" href="/riky.js" crossorigin="anonymous" integrity="sha384-/uo+oTJBnvHiJNw6UqbvtzB5j6HB4uXS8IZ2SfgqgMDSAU6QtpOoOdSrypB/dMWj">
-  <link rel="preload" href="/riky_bg.wasm" crossorigin="anonymous" integrity="sha384-RY/w4efoxGfVsxniYFe5Dc1wRFwtgagUXKllQawpMumulFrV7qR3UfVDFWGxEEaO" as="fetch" type="application/wasm">
-</head>
-<body>
-  <!-- Riky Ripaldo | Fesnuk Engginer -->
-  <script type="module">
-    import init, * as bindings from '/riky.js';
-    const wasm = await init({ module_or_path: '/riky_bg.wasm' });
-    
-    window.wasmBindings = bindings;
-    dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
-  </script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Riky Ripaldo | Portofolio</title>
+    <link
+      rel="icon"
+      href="./malas-dfbd728a3d503f03.png"
+      integrity="sha384-JTLmiVtNfYnRWQATixtZd94P4BM2fYFYtErcA0VQ/bfQukqQJqWiIdlIOJoDyIKs"
+    />
+    <link
+      rel="stylesheet"
+      href="./style-f09d906eaad93335.css"
+      integrity="sha384-Xy0hOMFVIxlFjXIkq+KRDAz+P3n6SoJ701c3cHpHdKl9FRH3XCWxonMniOT3nsoZ"
+    />
+    <link
+      rel="modulepreload"
+      href="./riky-702d15067e97fac9.js"
+      crossorigin="anonymous"
+      integrity="sha384-jw5zWDrt6/UDjCNRjLU+QiSD0svLNl43UjgLPVNJO+4z54/zAPGNYspPXjMBQBHt"
+    />
+    <link
+      rel="preload"
+      href="./riky-702d15067e97fac9_bg.wasm"
+      crossorigin="anonymous"
+      integrity="sha384-gT4k23W7ZaEqJofGyXVM1qJH3yJu1FIv4BAWHHNCaCOxGkCGbbClb3a/ku2zio0O"
+      as="fetch"
+      type="application/wasm"
+    />
+  </head>
+  <body>
+    <!-- Riky Ripaldo | Vibe Coding -->
+    <script type="module">
+      import init, * as bindings from "./riky-702d15067e97fac9.js";
+      const wasm = await init({
+        module_or_path: "./riky-702d15067e97fac9_bg.wasm",
+      });
+
+      window.wasmBindings = bindings;
+
+      dispatchEvent(
+        new CustomEvent("TrunkApplicationStarted", { detail: { wasm } }),
+      );
+    </script>
+  </body>
 </html>
